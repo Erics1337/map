@@ -1,0 +1,6 @@
+__pycache__/
+practice/
+.vscode/
+map_statistics.html
+get_data.py
+map.py

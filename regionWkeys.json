@@ -1,0 +1,5212 @@
+[
+	{
+		"zip_id" : 80007,
+		"city" : "Arvada",
+		"county" : "Jefferson",
+		"population2018" : 12026,
+		"CO2e_transportation_kgPerYear" : 29441982.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 8738.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 31067.8115669000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 146436.7678039000
+	},
+	{
+		"zip_id" : 80018,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 13046,
+		"CO2e_transportation_kgPerYear" : 24230645.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 47520.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 12463.4019189000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 65967.0213655300
+	},
+	{
+		"zip_id" : 80019,
+		"city" : "Aurora",
+		"county" : "Adams",
+		"population2018" : 2967,
+		"CO2e_transportation_kgPerYear" : 9105949.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 268633.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 5515.7660736800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 26729.0206012400
+	},
+	{
+		"zip_id" : 80022,
+		"city" : "Commerce City",
+		"county" : "Adams",
+		"population2018" : 50392,
+		"CO2e_transportation_kgPerYear" : 154656893.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 990132.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 121799.2692860000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 565575.4674414000
+	},
+	{
+		"zip_id" : 80033,
+		"city" : "Wheat Ridge",
+		"county" : "Jefferson",
+		"population2018" : 25323,
+		"CO2e_transportation_kgPerYear" : 61995619.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 77688.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 137522.9237081000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 623693.2972710000
+	},
+	{
+		"zip_id" : 80102,
+		"city" : "Bennett",
+		"county" : "Adams",
+		"population2018" : 5648,
+		"CO2e_transportation_kgPerYear" : 17334143.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 37614.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 38172.2114440000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 168528.9724400000
+	},
+	{
+		"zip_id" : 80126,
+		"city" : "Littleton",
+		"county" : "Douglas",
+		"population2018" : 43801,
+		"CO2e_transportation_kgPerYear" : 137008964.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 4219.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 109826.2521440000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 518792.9609010000
+	},
+	{
+		"zip_id" : 80135,
+		"city" : "Sedalia",
+		"county" : "Douglas",
+		"population2018" : 3607,
+		"CO2e_transportation_kgPerYear" : 11282650.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 28729.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 47578.6857607000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80202,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 13756,
+		"CO2e_transportation_kgPerYear" : 31597177.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 185912.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 356501.3908398000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1571227.2446970000
+	},
+	{
+		"zip_id" : 80204,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 34098,
+		"CO2e_transportation_kgPerYear" : 78322226.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 16708.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 140879.8296930000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 646082.0271037000
+	},
+	{
+		"zip_id" : 80216,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 13118,
+		"CO2e_transportation_kgPerYear" : 30131707.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 1744827.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 159827.7501376000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 710522.4381520000
+	},
+	{
+		"zip_id" : 80223,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 20650,
+		"CO2e_transportation_kgPerYear" : 47432517.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 122533.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 115847.1732920000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 524790.7732876000
+	},
+	{
+		"zip_id" : 80249,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 30625,
+		"CO2e_transportation_kgPerYear" : 70344834.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 28778.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 45029.1771459000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 223832.4963582000
+	},
+	{
+		"zip_id" : 80302,
+		"city" : "Boulder",
+		"county" : "Boulder",
+		"population2018" : 29109,
+		"CO2e_transportation_kgPerYear" : 55345981.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 3632.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 209623.2917648000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 942346.8143342000
+	},
+	{
+		"zip_id" : 80303,
+		"city" : "Boulder",
+		"county" : "Boulder",
+		"population2018" : 24631,
+		"CO2e_transportation_kgPerYear" : 46831799.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 9527.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 100769.8239145000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 462347.2508932000
+	},
+	{
+		"zip_id" : 80401,
+		"city" : "Golden",
+		"county" : "Jefferson",
+		"population2018" : 42169,
+		"CO2e_transportation_kgPerYear" : 103237896.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 273822.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 212876.8796190000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 968047.3729993000
+	},
+	{
+		"zip_id" : 80403,
+		"city" : "Golden",
+		"county" : "Jefferson",
+		"population2018" : 20021,
+		"CO2e_transportation_kgPerYear" : 49015294.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 25661.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 68943.5233623000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 319107.0308255000
+	},
+	{
+		"zip_id" : 80435,
+		"city" : "Dillon",
+		"county" : "Summit",
+		"population2018" : 7561,
+		"CO2e_transportation_kgPerYear" : 78878329.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 34033.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 46133.1875965000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 208402.8087103000
+	},
+	{
+		"zip_id" : 80467,
+		"city" : "Oak Creek",
+		"county" : "Routt",
+		"population2018" : 2145,
+		"CO2e_transportation_kgPerYear" : 7119494.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 47064.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 326981.8536350000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80487,
+		"city" : "Steamboat Springs",
+		"county" : "Routt",
+		"population2018" : 18001,
+		"CO2e_transportation_kgPerYear" : 59747327.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 47939.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 2801024.3337300000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 361450.9560602290
+	},
+	{
+		"zip_id" : 80516,
+		"city" : "Erie",
+		"county" : "Boulder",
+		"population2018" : 26323,
+		"CO2e_transportation_kgPerYear" : 50048859.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 466105.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 234258.9086570000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 296944.8713527000
+	},
+	{
+		"zip_id" : 80524,
+		"city" : "Fort Collins",
+		"county" : "Larimer",
+		"population2018" : 35753,
+		"CO2e_transportation_kgPerYear" : 81512956.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 48399.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 122423.7104420000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 991927.9894071000
+	},
+	{
+		"zip_id" : 80525,
+		"city" : "Fort Collins",
+		"county" : "Larimer",
+		"population2018" : 54286,
+		"CO2e_transportation_kgPerYear" : 123766183.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 172334.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 289456.0637800000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1094433.7780680000
+	},
+	{
+		"zip_id" : 80526,
+		"city" : "Fort Collins",
+		"county" : "Larimer",
+		"population2018" : 46346,
+		"CO2e_transportation_kgPerYear" : 105663845.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 169852.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 149881.6026340000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 452186.3962341000
+	},
+	{
+		"zip_id" : 80540,
+		"city" : "Lyons",
+		"county" : "Boulder",
+		"population2018" : 4552,
+		"CO2e_transportation_kgPerYear" : 8654880.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 310583.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 83782.1389180000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 79100.7468840000
+	},
+	{
+		"zip_id" : 80549,
+		"city" : "Wellington",
+		"county" : "Larimer",
+		"population2018" : 11342,
+		"CO2e_transportation_kgPerYear" : 25858528.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 1752534.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 111660.8333180000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80550,
+		"city" : "Windsor",
+		"county" : "Weld",
+		"population2018" : 28403,
+		"CO2e_transportation_kgPerYear" : 109159940.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 180303.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 54303.9151880000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 407478.9598226000
+	},
+	{
+		"zip_id" : 80601,
+		"city" : "Brighton",
+		"county" : "Adams",
+		"population2018" : 39816,
+		"CO2e_transportation_kgPerYear" : 122198342.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 206994.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 316497.7523600000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 405006.3378199000
+	},
+	{
+		"zip_id" : 80610,
+		"city" : "Ault",
+		"county" : "Weld",
+		"population2018" : 3232,
+		"CO2e_transportation_kgPerYear" : 12421397.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 136277.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 5903.7727307000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 25470.4571734890
+	},
+	{
+		"zip_id" : 80611,
+		"city" : "Briggsdale",
+		"county" : "Weld",
+		"population2018" : 1154,
+		"CO2e_transportation_kgPerYear" : 4435115.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 44342.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 11116.7029500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80612,
+		"city" : "Carr",
+		"county" : "Weld",
+		"population2018" : 338,
+		"CO2e_transportation_kgPerYear" : 1299020.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 83296.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 9185.4987725000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80621,
+		"city" : "Fort Lupton",
+		"county" : "Weld",
+		"population2018" : 12732,
+		"CO2e_transportation_kgPerYear" : 48932308.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 620518.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 113958.1615081000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 144386.8770513000
+	},
+	{
+		"zip_id" : 80623,
+		"city" : "Gilcrest",
+		"county" : "Weld",
+		"population2018" : 951,
+		"CO2e_transportation_kgPerYear" : 3654934.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 257922.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 2326.0662348800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6296.0712745200
+	},
+	{
+		"zip_id" : 80624,
+		"city" : "Gill",
+		"county" : "Weld",
+		"population2018" : 1180,
+		"CO2e_transportation_kgPerYear" : 4535040.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 1716.6195669900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6868.4443976560
+	},
+	{
+		"zip_id" : 80631,
+		"city" : "Greeley",
+		"county" : "Weld",
+		"population2018" : 55857,
+		"CO2e_transportation_kgPerYear" : 214672632.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 278198.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 84664.7688970000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 343994.5218607620
+	},
+	{
+		"zip_id" : 80634,
+		"city" : "Greeley",
+		"county" : "Weld",
+		"population2018" : 58208,
+		"CO2e_transportation_kgPerYear" : 223708122.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 63227.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 91969.3291020000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 379195.2214531810
+	},
+	{
+		"zip_id" : 80643,
+		"city" : "Keenesburg",
+		"county" : "Weld",
+		"population2018" : 4177,
+		"CO2e_transportation_kgPerYear" : 16053271.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 1075815.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 34057.8033211000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 24611.9246716130
+	},
+	{
+		"zip_id" : 80644,
+		"city" : "Kersey",
+		"county" : "Weld",
+		"population2018" : 3207,
+		"CO2e_transportation_kgPerYear" : 12325315.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 4137.0276538400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 15740.1956881070
+	},
+	{
+		"zip_id" : 80645,
+		"city" : "La Salle",
+		"county" : "Weld",
+		"population2018" : 4465,
+		"CO2e_transportation_kgPerYear" : 17160129.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 63534.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 10367.2261004000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 28046.1405010080
+	},
+	{
+		"zip_id" : 80651,
+		"city" : "Platteville",
+		"county" : "Weld",
+		"population2018" : 4316,
+		"CO2e_transportation_kgPerYear" : 16587484.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 1571371.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 11200.8274047000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 30335.6105290140
+	},
+	{
+		"zip_id" : 80652,
+		"city" : "Roggen",
+		"county" : "Weld",
+		"population2018" : 330,
+		"CO2e_transportation_kgPerYear" : 1268274.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 45732.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 8812.7825960000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4578.9532964640
+	},
+	{
+		"zip_id" : 80701,
+		"city" : "Fort Morgan",
+		"county" : "Morgan",
+		"population2018" : 15806,
+		"CO2e_transportation_kgPerYear" : 160186696.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 226921.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 638670.6214400000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 181929.7037300000
+	},
+	{
+		"zip_id" : 80723,
+		"city" : "Brush",
+		"county" : "Morgan",
+		"population2018" : 7024,
+		"CO2e_transportation_kgPerYear" : 71185078.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 3914869.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 111975.0045500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 82454.9147425100
+	},
+	{
+		"zip_id" : 80742,
+		"city" : "New Raymer",
+		"county" : "Weld",
+		"population2018" : 209,
+		"CO2e_transportation_kgPerYear" : 803240.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 81364.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 3801.4120920000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80747,
+		"city" : "Peetz",
+		"county" : "Logan",
+		"population2018" : 383,
+		"CO2e_transportation_kgPerYear" : 2872032.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 75480.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 1162.2067678000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 10562.0818591000
+	},
+	{
+		"zip_id" : 80751,
+		"city" : "Sterling",
+		"county" : "Logan",
+		"population2018" : 17445,
+		"CO2e_transportation_kgPerYear" : 130816194.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 54708.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 49682.6801310000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 249279.3573236000
+	},
+	{
+		"zip_id" : 80759,
+		"city" : "Yuma",
+		"county" : "Yuma",
+		"population2018" : 4828,
+		"CO2e_transportation_kgPerYear" : 28403194.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 50112.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 148372.1040120000
+	},
+	{
+		"zip_id" : 80810,
+		"city" : "Cheyenne Wells",
+		"county" : "Cheyenne",
+		"population2018" : 1231,
+		"CO2e_transportation_kgPerYear" : 38273016.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 169679.5845000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 42906.5931305000
+	},
+	{
+		"zip_id" : 80817,
+		"city" : "Fountain",
+		"county" : "El Paso",
+		"population2018" : 30350,
+		"CO2e_transportation_kgPerYear" : 56031240.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 2456806.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 249084.4142600000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2800.1948536000
+	},
+	{
+		"zip_id" : 80828,
+		"city" : "Limon",
+		"county" : "Lincoln",
+		"population2018" : 3583,
+		"CO2e_transportation_kgPerYear" : 110676911.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 26176.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 41866.0947920000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 90854.8923100000
+	},
+	{
+		"zip_id" : 80840,
+		"city" : "U S A F Academy",
+		"county" : "El Paso",
+		"population2018" : 6633,
+		"CO2e_transportation_kgPerYear" : 12245641.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 26647.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 9712.4206044000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 445.3325601000
+	},
+	{
+		"zip_id" : 80903,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 15519,
+		"CO2e_transportation_kgPerYear" : 28650702.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 1075930.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 110939.3006568000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11223.1143405000
+	},
+	{
+		"zip_id" : 80906,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 36199,
+		"CO2e_transportation_kgPerYear" : 66829485.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 321647.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 78008.8976250000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 8317.2318071000
+	},
+	{
+		"zip_id" : 80913,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 3753,
+		"CO2e_transportation_kgPerYear" : 6928674.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 45126.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 14402.9100205000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 663.7778719000
+	},
+	{
+		"zip_id" : 80929,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 140,
+		"CO2e_transportation_kgPerYear" : 258464.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 155170.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 8181.9200514100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 145.7880266630
+	},
+	{
+		"zip_id" : 81001,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 30764,
+		"CO2e_transportation_kgPerYear" : 97037284.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 600635.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 61862.7002589000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 178196.5855327000
+	},
+	{
+		"zip_id" : 81003,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 14942,
+		"CO2e_transportation_kgPerYear" : 47130773.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 106723.1782160000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 325081.9641056000
+	},
+	{
+		"zip_id" : 81004,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 26033,
+		"CO2e_transportation_kgPerYear" : 82114537.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 981582.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 33971.1813300000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 199162.2044130000
+	},
+	{
+		"zip_id" : 81005,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 32062,
+		"CO2e_transportation_kgPerYear" : 101131498.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 35720.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 51116.3381100000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 223419.2213432000
+	},
+	{
+		"zip_id" : 81006,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 11614,
+		"CO2e_transportation_kgPerYear" : 36633436.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 9317943.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 43227.0338194000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 129094.2922449000
+	},
+	{
+		"zip_id" : 81036,
+		"city" : "Eads",
+		"county" : "Kiowa",
+		"population2018" : 1059,
+		"CO2e_transportation_kgPerYear" : 44810751.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 35805.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 150022.4136763400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 25613.9609175000
+	},
+	{
+		"zip_id" : 81049,
+		"city" : "Kim",
+		"county" : "Las Animas",
+		"population2018" : 275,
+		"CO2e_transportation_kgPerYear" : 2959172.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 41385.2673682740,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81052,
+		"city" : "Lamar",
+		"county" : "Prowers",
+		"population2018" : 9060,
+		"CO2e_transportation_kgPerYear" : 56745081.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81082,
+		"city" : "Trinidad",
+		"county" : "Las Animas",
+		"population2018" : 11506,
+		"CO2e_transportation_kgPerYear" : 123811771.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 27742.6266557600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 132024.8439450000
+	},
+	{
+		"zip_id" : 81091,
+		"city" : "Weston",
+		"county" : "Las Animas",
+		"population2018" : 523,
+		"CO2e_transportation_kgPerYear" : 5627808.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 2526.1981319000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81137,
+		"city" : "Ignacio",
+		"county" : "La Plata",
+		"population2018" : 5745,
+		"CO2e_transportation_kgPerYear" : 19955683.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 91840.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 99684.3317210000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11017.4820600000
+	},
+	{
+		"zip_id" : 81212,
+		"city" : "Canon City",
+		"county" : "Fremont",
+		"population2018" : 30743,
+		"CO2e_transportation_kgPerYear" : 92100962.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 101874.5053240000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81226,
+		"city" : "Florence",
+		"county" : "Fremont",
+		"population2018" : 8959,
+		"CO2e_transportation_kgPerYear" : 26839688.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 964048.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 19624.7072344000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81301,
+		"city" : "Durango",
+		"county" : "La Plata",
+		"population2018" : 30409,
+		"CO2e_transportation_kgPerYear" : 105627914.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 751040.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 1492953.8526000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 470773.5615881570
+	},
+	{
+		"zip_id" : 81303,
+		"city" : "Durango",
+		"county" : "La Plata",
+		"population2018" : 8367,
+		"CO2e_transportation_kgPerYear" : 29063394.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 478584.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 356825.0680400000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 110753.4409667180
+	},
+	{
+		"zip_id" : 81321,
+		"city" : "Cortez",
+		"county" : "Montezuma",
+		"population2018" : 14758,
+		"CO2e_transportation_kgPerYear" : 88342422.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 788.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 180196.4168700000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 155970.6709092480
+	},
+	{
+		"zip_id" : 81401,
+		"city" : "Montrose",
+		"county" : "Montrose",
+		"population2018" : 22633,
+		"CO2e_transportation_kgPerYear" : 84360809.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 46487.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 35794.1237310000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 849077.3219200000
+	},
+	{
+		"zip_id" : 81422,
+		"city" : "Naturita",
+		"county" : "Montrose",
+		"population2018" : 691,
+		"CO2e_transportation_kgPerYear" : 2575590.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 1585.3415279000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 18497.4743019000
+	},
+	{
+		"zip_id" : 81424,
+		"city" : "Nucla",
+		"county" : "Montrose",
+		"population2018" : 1000,
+		"CO2e_transportation_kgPerYear" : 3727337.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 92521.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 2333.0860790000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 27292.4325252000
+	},
+	{
+		"zip_id" : 81428,
+		"city" : "Paonia",
+		"county" : "Delta",
+		"population2018" : 3272,
+		"CO2e_transportation_kgPerYear" : 10146490.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 4532.5303554500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 106966.6784880000
+	},
+	{
+		"zip_id" : 81431,
+		"city" : "Redvale",
+		"county" : "Montrose",
+		"population2018" : 364,
+		"CO2e_transportation_kgPerYear" : 1356751.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 640.0271581460,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 7113.8203874000
+	},
+	{
+		"zip_id" : 81434,
+		"city" : "Somerset",
+		"county" : "Gunnison",
+		"population2018" : 244,
+		"CO2e_transportation_kgPerYear" : 1340668.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 296827.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 229.7442726270,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81503,
+		"city" : "Grand Junction",
+		"county" : "Mesa",
+		"population2018" : 15763,
+		"CO2e_transportation_kgPerYear" : 50954873.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 88824.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 32625.5113882000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 156531.6632864000
+	},
+	{
+		"zip_id" : 81524,
+		"city" : "Loma",
+		"county" : "Mesa",
+		"population2018" : 1817,
+		"CO2e_transportation_kgPerYear" : 5873565.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 48872.0120240000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81526,
+		"city" : "Palisade",
+		"county" : "Mesa",
+		"population2018" : 5582,
+		"CO2e_transportation_kgPerYear" : 18044160.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 13744.0080372000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 65011.7720201000
+	},
+	{
+		"zip_id" : 81624,
+		"city" : "Collbran",
+		"county" : "Mesa",
+		"population2018" : 1408,
+		"CO2e_transportation_kgPerYear" : 4551447.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 32655.8495800000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 31858.8837304000
+	},
+	{
+		"zip_id" : 81625,
+		"city" : "Craig",
+		"county" : "Moffat",
+		"population2018" : 12478,
+		"CO2e_transportation_kgPerYear" : 63654608.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 24061.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 1889308.5550100000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 103885.1082208780
+	},
+	{
+		"zip_id" : 81630,
+		"city" : "De Beque",
+		"county" : "Mesa",
+		"population2018" : 900,
+		"CO2e_transportation_kgPerYear" : 2909306.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 28380.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 23171.2979510000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 14162.0600504800
+	},
+	{
+		"zip_id" : 81635,
+		"city" : "Parachute",
+		"county" : "Garfield",
+		"population2018" : 6634,
+		"CO2e_transportation_kgPerYear" : 36217171.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 259326.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 18840.5266330000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 53233.1528089700
+	},
+	{
+		"zip_id" : 81637,
+		"city" : "Gypsum",
+		"county" : "Eagle",
+		"population2018" : 8554,
+		"CO2e_transportation_kgPerYear" : 65317632.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 61019.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 52159.9062210000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 281408.3759800000
+	},
+	{
+		"zip_id" : 81639,
+		"city" : "Hayden",
+		"county" : "Routt",
+		"population2018" : 2361,
+		"CO2e_transportation_kgPerYear" : 7836422.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 2488170.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 358841.0528880000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 23467.1497744120
+	},
+	{
+		"zip_id" : 81641,
+		"city" : "Meeker",
+		"county" : "Rio Blanco",
+		"population2018" : 3752,
+		"CO2e_transportation_kgPerYear" : 22468473.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 95057.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 200521.9117900000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81648,
+		"city" : "Rangely",
+		"county" : "Rio Blanco",
+		"population2018" : 2647,
+		"CO2e_transportation_kgPerYear" : 15851292.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 33621.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 6231044.1253100000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 31521.7823300000
+	},
+	{
+		"zip_id" : 81650,
+		"city" : "Rifle",
+		"county" : "Garfield",
+		"population2018" : 13356,
+		"CO2e_transportation_kgPerYear" : 72914763.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 967234.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 43555.3622868000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 202218.7715807000
+	},
+	{
+		"zip_id" : 81652,
+		"city" : "Silt",
+		"county" : "Garfield",
+		"population2018" : 4946,
+		"CO2e_transportation_kgPerYear" : 27001828.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 0.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 17370.0815574000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 82693.5532042800
+	},
+	{
+		"zip_id" : 81655,
+		"city" : "Wolcott",
+		"county" : "Eagle",
+		"population2018" : 105,
+		"CO2e_transportation_kgPerYear" : 801771.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : 53328.0000000000,
+		"CO2e_electricity_total_metricTonsPerYear" : 4619.9166099700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 26695.8644002400
+	},
+	{
+		"zip_id" : 80011,
+		"city" : "Aurora",
+		"county" : "Adams",
+		"population2018" : 50675,
+		"CO2e_transportation_kgPerYear" : 155525442.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 137626.7844910000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 646415.2042823000
+	},
+	{
+		"zip_id" : 80024,
+		"city" : "Dupont",
+		"county" : "Adams",
+		"population2018" : 336,
+		"CO2e_transportation_kgPerYear" : 1031210.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 758.2732634920,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3535.5874651820
+	},
+	{
+		"zip_id" : 80030,
+		"city" : "Westminster",
+		"county" : "Adams",
+		"population2018" : 16607,
+		"CO2e_transportation_kgPerYear" : 50968150.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 41856.5509559000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 197644.5704768000
+	},
+	{
+		"zip_id" : 80031,
+		"city" : "Westminster",
+		"county" : "Adams",
+		"population2018" : 35509,
+		"CO2e_transportation_kgPerYear" : 108979831.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 77071.5778151000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 368258.4869534000
+	},
+	{
+		"zip_id" : 80045,
+		"city" : "Aurora",
+		"county" : "Adams",
+		"population2018" : 889,
+		"CO2e_transportation_kgPerYear" : 2728409.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7766.8999949000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 34749.0756575400
+	},
+	{
+		"zip_id" : 80136,
+		"city" : "Strasburg",
+		"county" : "Adams",
+		"population2018" : 5026,
+		"CO2e_transportation_kgPerYear" : 15425178.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 27823.4191150000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 123725.7469400000
+	},
+	{
+		"zip_id" : 80137,
+		"city" : "Watkins",
+		"county" : "Adams",
+		"population2018" : 1658,
+		"CO2e_transportation_kgPerYear" : 5088529.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6739.3146068200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 30930.4148812900
+	},
+	{
+		"zip_id" : 80221,
+		"city" : "Denver",
+		"county" : "Adams",
+		"population2018" : 42046,
+		"CO2e_transportation_kgPerYear" : 129042383.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 91676.4982410000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 437874.2401515000
+	},
+	{
+		"zip_id" : 80229,
+		"city" : "Denver",
+		"county" : "Adams",
+		"population2018" : 54946,
+		"CO2e_transportation_kgPerYear" : 168633467.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 100787.1391140000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 489049.8554269000
+	},
+	{
+		"zip_id" : 80233,
+		"city" : "Denver",
+		"county" : "Adams",
+		"population2018" : 50478,
+		"CO2e_transportation_kgPerYear" : 154920834.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 80267.7301291000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 395384.6048647000
+	},
+	{
+		"zip_id" : 80234,
+		"city" : "Denver",
+		"county" : "Adams",
+		"population2018" : 28254,
+		"CO2e_transportation_kgPerYear" : 86713682.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 94161.1522712000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 436626.7114729000
+	},
+	{
+		"zip_id" : 80241,
+		"city" : "Denver",
+		"county" : "Adams",
+		"population2018" : 33431,
+		"CO2e_transportation_kgPerYear" : 102602290.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 46040.5410468000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 230720.2786420000
+	},
+	{
+		"zip_id" : 80260,
+		"city" : "Denver",
+		"county" : "Adams",
+		"population2018" : 34538,
+		"CO2e_transportation_kgPerYear" : 105999758.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 44184.0298915000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 223573.2225244000
+	},
+	{
+		"zip_id" : 80602,
+		"city" : "Brighton",
+		"county" : "Adams",
+		"population2018" : 34857,
+		"CO2e_transportation_kgPerYear" : 106978793.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 188224.9852370000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 250894.0191359000
+	},
+	{
+		"zip_id" : 80640,
+		"city" : "Henderson",
+		"county" : "Adams",
+		"population2018" : 12864,
+		"CO2e_transportation_kgPerYear" : 39480598.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 141430.1919220000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 176558.2264342000
+	},
+	{
+		"zip_id" : 80010,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 43477,
+		"CO2e_transportation_kgPerYear" : 80750863.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 64186.0783425000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 318902.8753840000
+	},
+	{
+		"zip_id" : 80012,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 53032,
+		"CO2e_transportation_kgPerYear" : 98497592.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 110577.9159350000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 530188.2897298000
+	},
+	{
+		"zip_id" : 80013,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 72887,
+		"CO2e_transportation_kgPerYear" : 135374754.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 74437.7749650000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 389570.2465957000
+	},
+	{
+		"zip_id" : 80014,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 39243,
+		"CO2e_transportation_kgPerYear" : 72886955.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 144879.5620293000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 668093.7585726000
+	},
+	{
+		"zip_id" : 80015,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 67959,
+		"CO2e_transportation_kgPerYear" : 126221863.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 296213.8908000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 549949.2870211000
+	},
+	{
+		"zip_id" : 80016,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 54651,
+		"CO2e_transportation_kgPerYear" : 101504599.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 327888.6940100000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 589917.2442366000
+	},
+	{
+		"zip_id" : 80017,
+		"city" : "Aurora",
+		"county" : "Arapahoe",
+		"population2018" : 36613,
+		"CO2e_transportation_kgPerYear" : 68002193.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 34187.9141143000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 181678.1592340000
+	},
+	{
+		"zip_id" : 80103,
+		"city" : "Byers",
+		"county" : "Arapahoe",
+		"population2018" : 2749,
+		"CO2e_transportation_kgPerYear" : 5105783.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 10887.2316037000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80105,
+		"city" : "Deer Trail",
+		"county" : "Arapahoe",
+		"population2018" : 1123,
+		"CO2e_transportation_kgPerYear" : 2085775.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4843.5637360000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 21780.2756360000
+	},
+	{
+		"zip_id" : 80110,
+		"city" : "Englewood",
+		"county" : "Arapahoe",
+		"population2018" : 22523,
+		"CO2e_transportation_kgPerYear" : 41832502.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 163618.8849584000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 735363.6046397000
+	},
+	{
+		"zip_id" : 80111,
+		"city" : "Englewood",
+		"county" : "Arapahoe",
+		"population2018" : 32864,
+		"CO2e_transportation_kgPerYear" : 61039087.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 312179.2190112000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1394169.2920100000
+	},
+	{
+		"zip_id" : 80112,
+		"city" : "Englewood",
+		"county" : "Arapahoe",
+		"population2018" : 33081,
+		"CO2e_transportation_kgPerYear" : 61442126.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 355200.2229646000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1582510.5588130000
+	},
+	{
+		"zip_id" : 80113,
+		"city" : "Englewood",
+		"county" : "Arapahoe",
+		"population2018" : 23117,
+		"CO2e_transportation_kgPerYear" : 42935753.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 74148.4979358000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 344590.1228295000
+	},
+	{
+		"zip_id" : 80120,
+		"city" : "Littleton",
+		"county" : "Arapahoe",
+		"population2018" : 31830,
+		"CO2e_transportation_kgPerYear" : 59118614.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 137160.5912027000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 627824.0089123000
+	},
+	{
+		"zip_id" : 80121,
+		"city" : "Littleton",
+		"county" : "Arapahoe",
+		"population2018" : 19414,
+		"CO2e_transportation_kgPerYear" : 36058083.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 47263.6979930000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 223758.0155883000
+	},
+	{
+		"zip_id" : 80122,
+		"city" : "Littleton",
+		"county" : "Arapahoe",
+		"population2018" : 33103,
+		"CO2e_transportation_kgPerYear" : 61482987.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 114480.6647362000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 529752.3699875000
+	},
+	{
+		"zip_id" : 80247,
+		"city" : "Denver",
+		"county" : "Arapahoe",
+		"population2018" : 29105,
+		"CO2e_transportation_kgPerYear" : 54057407.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 24268.7139349000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 131702.3509348000
+	},
+	{
+		"zip_id" : 81101,
+		"city" : "Alamosa",
+		"county" : "Alamosa",
+		"population2018" : 15477,
+		"CO2e_transportation_kgPerYear" : 70356324.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 51562.0616887000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 239098.7154360000
+	},
+	{
+		"zip_id" : 81136,
+		"city" : "Hooper",
+		"county" : "Alamosa",
+		"population2018" : 197,
+		"CO2e_transportation_kgPerYear" : 895535.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 439.8080409190,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 813.9546321530
+	},
+	{
+		"zip_id" : 81146,
+		"city" : "Mosca",
+		"county" : "Alamosa",
+		"population2018" : 772,
+		"CO2e_transportation_kgPerYear" : 3509406.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1074.0289445850,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81121,
+		"city" : "Arboles",
+		"county" : "Archuleta",
+		"population2018" : 333,
+		"CO2e_transportation_kgPerYear" : 2031409.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 46259.2867980000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81128,
+		"city" : "Chromo",
+		"county" : "Archuleta",
+		"population2018" : 100,
+		"CO2e_transportation_kgPerYear" : 610033.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5395.0813345000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81147,
+		"city" : "Pagosa Springs",
+		"county" : "Archuleta",
+		"population2018" : 12288,
+		"CO2e_transportation_kgPerYear" : 74960826.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 461252.9094000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81029,
+		"city" : "Campo",
+		"county" : "Baca",
+		"population2018" : 247,
+		"CO2e_transportation_kgPerYear" : 4959221.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 12497.8927634860,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81064,
+		"city" : "Pritchett",
+		"county" : "Baca",
+		"population2018" : 269,
+		"CO2e_transportation_kgPerYear" : 5400933.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 10443.0188267480,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3614.9006146000
+	},
+	{
+		"zip_id" : 81073,
+		"city" : "Springfield",
+		"county" : "Baca",
+		"population2018" : 1839,
+		"CO2e_transportation_kgPerYear" : 36923107.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 276710.9764345500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 41594.0610820000
+	},
+	{
+		"zip_id" : 81084,
+		"city" : "Two Buttes",
+		"county" : "Baca",
+		"population2018" : 76,
+		"CO2e_transportation_kgPerYear" : 1525914.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1.0024339960,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 50.6582988800
+	},
+	{
+		"zip_id" : 81087,
+		"city" : "Vilas",
+		"county" : "Baca",
+		"population2018" : 123,
+		"CO2e_transportation_kgPerYear" : 2469572.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7831.2254142830,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2658.6841317000
+	},
+	{
+		"zip_id" : 81090,
+		"city" : "Walsh",
+		"county" : "Baca",
+		"population2018" : 1025,
+		"CO2e_transportation_kgPerYear" : 20579764.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 46991.1379950200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 16143.4065223000
+	},
+	{
+		"zip_id" : 81038,
+		"city" : "Fort Lyon",
+		"county" : "Bent",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81044,
+		"city" : "Hasty",
+		"county" : "Bent",
+		"population2018" : 228,
+		"CO2e_transportation_kgPerYear" : 1240345.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 15521.1223599880,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2728.6725709000
+	},
+	{
+		"zip_id" : 81054,
+		"city" : "Las Animas",
+		"county" : "Bent",
+		"population2018" : 4858,
+		"CO2e_transportation_kgPerYear" : 26428063.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81057,
+		"city" : "Mc Clave",
+		"county" : "Bent",
+		"population2018" : 512,
+		"CO2e_transportation_kgPerYear" : 2785337.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 25870.2783325510,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4635.7730839000
+	},
+	{
+		"zip_id" : 80025,
+		"city" : "Eldorado Springs",
+		"county" : "Boulder",
+		"population2018" : 365,
+		"CO2e_transportation_kgPerYear" : 693988.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 846.3167929080,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4021.9272816370
+	},
+	{
+		"zip_id" : 80026,
+		"city" : "Lafayette",
+		"county" : "Boulder",
+		"population2018" : 29576,
+		"CO2e_transportation_kgPerYear" : 56233904.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 110625.6197975000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 509794.5777023000
+	},
+	{
+		"zip_id" : 80027,
+		"city" : "Louisville",
+		"county" : "Boulder",
+		"population2018" : 33830,
+		"CO2e_transportation_kgPerYear" : 64322186.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 143803.7054673000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 658634.0873888000
+	},
+	{
+		"zip_id" : 80301,
+		"city" : "Boulder",
+		"county" : "Boulder",
+		"population2018" : 25690,
+		"CO2e_transportation_kgPerYear" : 48845314.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 240204.3593416000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1073088.8656140000
+	},
+	{
+		"zip_id" : 80304,
+		"city" : "Boulder",
+		"county" : "Boulder",
+		"population2018" : 27038,
+		"CO2e_transportation_kgPerYear" : 51408314.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 106376.3974338000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 488981.5439522000
+	},
+	{
+		"zip_id" : 80305,
+		"city" : "Boulder",
+		"county" : "Boulder",
+		"population2018" : 17502,
+		"CO2e_transportation_kgPerYear" : 33277177.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 47844.3638491000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 224618.1486608000
+	},
+	{
+		"zip_id" : 80310,
+		"city" : "Boulder",
+		"county" : "Boulder",
+		"population2018" : 7291,
+		"CO2e_transportation_kgPerYear" : 13862639.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 808.3324394740,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 9939.1870725280
+	},
+	{
+		"zip_id" : 80455,
+		"city" : "Jamestown",
+		"county" : "Boulder",
+		"population2018" : 438,
+		"CO2e_transportation_kgPerYear" : 832785.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 952.7836029800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4551.6745046910
+	},
+	{
+		"zip_id" : 80466,
+		"city" : "Nederland",
+		"county" : "Boulder",
+		"population2018" : 3739,
+		"CO2e_transportation_kgPerYear" : 7109094.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 17570.8691638900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 80129.6179200200
+	},
+	{
+		"zip_id" : 80471,
+		"city" : "Pinecliffe",
+		"county" : "Boulder",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 313.9827423370,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1373.1911642640
+	},
+	{
+		"zip_id" : 80481,
+		"city" : "Ward",
+		"county" : "Boulder",
+		"population2018" : 537,
+		"CO2e_transportation_kgPerYear" : 1021017.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1301.8964389600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 10142.1058288470
+	},
+	{
+		"zip_id" : 80501,
+		"city" : "Longmont",
+		"county" : "Boulder",
+		"population2018" : 41951,
+		"CO2e_transportation_kgPerYear" : 79762933.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 147148.7882640000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 910616.0105500000
+	},
+	{
+		"zip_id" : 80503,
+		"city" : "Longmont",
+		"county" : "Boulder",
+		"population2018" : 34791,
+		"CO2e_transportation_kgPerYear" : 66149370.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 55383.7383092000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 361141.9315508000
+	},
+	{
+		"zip_id" : 80510,
+		"city" : "Allenspark",
+		"county" : "Boulder",
+		"population2018" : 323,
+		"CO2e_transportation_kgPerYear" : 614131.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1577.1187226100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80544,
+		"city" : "Niwot",
+		"county" : "Boulder",
+		"population2018" : 119,
+		"CO2e_transportation_kgPerYear" : 226259.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2456.5127898020,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 14764.7697270500
+	},
+	{
+		"zip_id" : 80020,
+		"city" : "Broomfield",
+		"county" : "Broomfield",
+		"population2018" : 49657,
+		"CO2e_transportation_kgPerYear" : 204620580.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 158616.2574950000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 726886.9238406000
+	},
+	{
+		"zip_id" : 81201,
+		"city" : "Salida",
+		"county" : "Chaffee",
+		"population2018" : 9161,
+		"CO2e_transportation_kgPerYear" : 39912450.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 59360.0440524000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 161694.2357215500
+	},
+	{
+		"zip_id" : 81211,
+		"city" : "Buena Vista",
+		"county" : "Chaffee",
+		"population2018" : 8076,
+		"CO2e_transportation_kgPerYear" : 35185345.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 22871.0674530000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81227,
+		"city" : "Monarch",
+		"county" : "Chaffee",
+		"population2018" : 6,
+		"CO2e_transportation_kgPerYear" : 26141.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 418.7920863240,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1144.7367105160
+	},
+	{
+		"zip_id" : 81236,
+		"city" : "Nathrop",
+		"county" : "Chaffee",
+		"population2018" : 1364,
+		"CO2e_transportation_kgPerYear" : 5942646.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1876.0959302000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81242,
+		"city" : "Poncha Springs",
+		"county" : "Chaffee",
+		"population2018" : 561,
+		"CO2e_transportation_kgPerYear" : 2444153.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4304.9756655700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11733.5618161990
+	},
+	{
+		"zip_id" : 80802,
+		"city" : "Arapahoe",
+		"county" : "Cheyenne",
+		"population2018" : 322,
+		"CO2e_transportation_kgPerYear" : 10011301.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7781.8189238000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2791.3288880000
+	},
+	{
+		"zip_id" : 80825,
+		"city" : "Kit Carson",
+		"county" : "Cheyenne",
+		"population2018" : 434,
+		"CO2e_transportation_kgPerYear" : 13493492.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 47997.8259380000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80862,
+		"city" : "Wild Horse",
+		"county" : "Cheyenne",
+		"population2018" : 44,
+		"CO2e_transportation_kgPerYear" : 1368004.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3562.4027940000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80436,
+		"city" : "Dumont",
+		"county" : "Clear Creek",
+		"population2018" : 517,
+		"CO2e_transportation_kgPerYear" : 21574617.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1792.0252422200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80438,
+		"city" : "Empire",
+		"county" : "Clear Creek",
+		"population2018" : 502,
+		"CO2e_transportation_kgPerYear" : 20948661.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2105.6369098400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80444,
+		"city" : "Georgetown",
+		"county" : "Clear Creek",
+		"population2018" : 1232,
+		"CO2e_transportation_kgPerYear" : 51411854.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6519.4542627000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80452,
+		"city" : "Idaho Springs",
+		"county" : "Clear Creek",
+		"population2018" : 3091,
+		"CO2e_transportation_kgPerYear" : 128988669.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 15411.7684336000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80476,
+		"city" : "Silver Plume",
+		"county" : "Clear Creek",
+		"population2018" : 178,
+		"CO2e_transportation_kgPerYear" : 7428011.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 527.7079882280,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2464.2546350730
+	},
+	{
+		"zip_id" : 81120,
+		"city" : "Antonito",
+		"county" : "Conejos",
+		"population2018" : 2070,
+		"CO2e_transportation_kgPerYear" : 7766822.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3923.6621057300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81124,
+		"city" : "Capulin",
+		"county" : "Conejos",
+		"population2018" : 204,
+		"CO2e_transportation_kgPerYear" : 765426.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 461.9783563410,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1574.4436903640
+	},
+	{
+		"zip_id" : 81129,
+		"city" : "Conejos",
+		"county" : "Conejos",
+		"population2018" : 73,
+		"CO2e_transportation_kgPerYear" : 273902.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1.8058959960,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 72.0168353200
+	},
+	{
+		"zip_id" : 81140,
+		"city" : "La Jara",
+		"county" : "Conejos",
+		"population2018" : 2351,
+		"CO2e_transportation_kgPerYear" : 8821158.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4392.0920412040,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 22917.2041789600
+	},
+	{
+		"zip_id" : 81141,
+		"city" : "Manassa",
+		"county" : "Conejos",
+		"population2018" : 1444,
+		"CO2e_transportation_kgPerYear" : 5418015.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1919.6185609100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 9663.6991805830
+	},
+	{
+		"zip_id" : 81148,
+		"city" : "Romeo",
+		"county" : "Conejos",
+		"population2018" : 312,
+		"CO2e_transportation_kgPerYear" : 1170651.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7.7183500080,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 307.7979811000
+	},
+	{
+		"zip_id" : 81151,
+		"city" : "Sanford",
+		"county" : "Conejos",
+		"population2018" : 1796,
+		"CO2e_transportation_kgPerYear" : 6738750.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1173.6327321510,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81123,
+		"city" : "Blanca",
+		"county" : "Costilla",
+		"population2018" : 937,
+		"CO2e_transportation_kgPerYear" : 12899460.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1279.1107578800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81126,
+		"city" : "Chama",
+		"county" : "Costilla",
+		"population2018" : 194,
+		"CO2e_transportation_kgPerYear" : 2670753.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4.7992304540,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81133,
+		"city" : "Fort Garland",
+		"county" : "Costilla",
+		"population2018" : 1199,
+		"CO2e_transportation_kgPerYear" : 16506352.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1599.5749349500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81138,
+		"city" : "Jaroso",
+		"county" : "Costilla",
+		"population2018" : 58,
+		"CO2e_transportation_kgPerYear" : 798472.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.1194755420,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81152,
+		"city" : "San Luis",
+		"county" : "Costilla",
+		"population2018" : 1170,
+		"CO2e_transportation_kgPerYear" : 16107116.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1659.8153485750,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81033,
+		"city" : "Crowley",
+		"county" : "Crowley",
+		"population2018" : 251,
+		"CO2e_transportation_kgPerYear" : 707741.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 558.3890678960,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81062,
+		"city" : "Olney Springs",
+		"county" : "Crowley",
+		"population2018" : 1775,
+		"CO2e_transportation_kgPerYear" : 5004939.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1415.7625963000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81063,
+		"city" : "Ordway",
+		"county" : "Crowley",
+		"population2018" : 2867,
+		"CO2e_transportation_kgPerYear" : 8084034.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 129355.4409675000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81076,
+		"city" : "Sugar City",
+		"county" : "Crowley",
+		"population2018" : 705,
+		"CO2e_transportation_kgPerYear" : 1987877.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 328.5537420000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81252,
+		"city" : "Westcliffe",
+		"county" : "Custer",
+		"population2018" : 4003,
+		"CO2e_transportation_kgPerYear" : 16878488.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 21729.1904863000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81253,
+		"city" : "Wetmore",
+		"county" : "Custer",
+		"population2018" : 445,
+		"CO2e_transportation_kgPerYear" : 1876325.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 809.4515162000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81410,
+		"city" : "Austin",
+		"county" : "Delta",
+		"population2018" : 1483,
+		"CO2e_transportation_kgPerYear" : 4598791.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1030.5667893700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 23319.8832287000
+	},
+	{
+		"zip_id" : 81413,
+		"city" : "Cedaredge",
+		"county" : "Delta",
+		"population2018" : 4988,
+		"CO2e_transportation_kgPerYear" : 15467815.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4638.7138862400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 107251.5903220000
+	},
+	{
+		"zip_id" : 81415,
+		"city" : "Crawford",
+		"county" : "Delta",
+		"population2018" : 1506,
+		"CO2e_transportation_kgPerYear" : 4670114.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1346.9737117000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 31065.3070470000
+	},
+	{
+		"zip_id" : 81416,
+		"city" : "Delta",
+		"county" : "Delta",
+		"population2018" : 14273,
+		"CO2e_transportation_kgPerYear" : 44260651.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 354791.2501110000
+	},
+	{
+		"zip_id" : 81418,
+		"city" : "Eckert",
+		"county" : "Delta",
+		"population2018" : 1736,
+		"CO2e_transportation_kgPerYear" : 5383345.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1121.2666642800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 25206.3204840000
+	},
+	{
+		"zip_id" : 81419,
+		"city" : "Hotchkiss",
+		"county" : "Delta",
+		"population2018" : 3852,
+		"CO2e_transportation_kgPerYear" : 11945073.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3916.2547337900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 91034.1960250000
+	},
+	{
+		"zip_id" : 80203,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 20937,
+		"CO2e_transportation_kgPerYear" : 48091748.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 136158.4905015000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 613873.6032760000
+	},
+	{
+		"zip_id" : 80205,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 34381,
+		"CO2e_transportation_kgPerYear" : 78972269.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 131781.3311373000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 606538.6718870000
+	},
+	{
+		"zip_id" : 80206,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 24527,
+		"CO2e_transportation_kgPerYear" : 56337886.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 185228.6088482000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 831633.0747431000
+	},
+	{
+		"zip_id" : 80207,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 26592,
+		"CO2e_transportation_kgPerYear" : 61081137.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 56023.4644728000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 268373.2339662000
+	},
+	{
+		"zip_id" : 80209,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 25271,
+		"CO2e_transportation_kgPerYear" : 58046834.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 123287.7529284000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 561390.6647804000
+	},
+	{
+		"zip_id" : 80210,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 36296,
+		"CO2e_transportation_kgPerYear" : 83370975.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 151818.9395223000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 695854.3847841000
+	},
+	{
+		"zip_id" : 80211,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 34144,
+		"CO2e_transportation_kgPerYear" : 78427886.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 151347.0590929000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 691900.4463491000
+	},
+	{
+		"zip_id" : 80212,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 19652,
+		"CO2e_transportation_kgPerYear" : 45140137.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 71132.2741231000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 328355.3386144000
+	},
+	{
+		"zip_id" : 80218,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 19129,
+		"CO2e_transportation_kgPerYear" : 43938819.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 85248.5594027000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 389632.9847912000
+	},
+	{
+		"zip_id" : 80219,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 69190,
+		"CO2e_transportation_kgPerYear" : 158927644.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 85440.3743610000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 434442.4589437000
+	},
+	{
+		"zip_id" : 80220,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 35999,
+		"CO2e_transportation_kgPerYear" : 82688773.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 86817.1645958000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 411310.8137325000
+	},
+	{
+		"zip_id" : 80222,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 23044,
+		"CO2e_transportation_kgPerYear" : 52931473.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 155154.2395774000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 698801.4263756000
+	},
+	{
+		"zip_id" : 80224,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 19253,
+		"CO2e_transportation_kgPerYear" : 44223644.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 55737.2491732000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 260675.3453624000
+	},
+	{
+		"zip_id" : 80230,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 9349,
+		"CO2e_transportation_kgPerYear" : 21474412.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 29536.3343350000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 137387.5962323000
+	},
+	{
+		"zip_id" : 80231,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 37241,
+		"CO2e_transportation_kgPerYear" : 85541615.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 105477.5323321000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 494012.0956009000
+	},
+	{
+		"zip_id" : 80236,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 18795,
+		"CO2e_transportation_kgPerYear" : 43171630.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 13652.2315568000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 76215.8976630800
+	},
+	{
+		"zip_id" : 80237,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 20982,
+		"CO2e_transportation_kgPerYear" : 48195112.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 109889.7143041000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 499027.6697536000
+	},
+	{
+		"zip_id" : 80238,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 19901,
+		"CO2e_transportation_kgPerYear" : 45712083.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 64963.4400338000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 301594.8921828000
+	},
+	{
+		"zip_id" : 80239,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 47489,
+		"CO2e_transportation_kgPerYear" : 109081007.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 99974.7001130000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 478946.9040344000
+	},
+	{
+		"zip_id" : 80246,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 13607,
+		"CO2e_transportation_kgPerYear" : 31254928.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 77785.6905163000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 352144.2279784000
+	},
+	{
+		"zip_id" : 80264,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5651.6893624600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 24717.4409527500
+	},
+	{
+		"zip_id" : 80290,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2197.8791969600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 9612.3381498470
+	},
+	{
+		"zip_id" : 80293,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5128.3847915700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 22428.7890139800
+	},
+	{
+		"zip_id" : 80294,
+		"city" : "Denver",
+		"county" : "Denver",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 627.9654846740,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2746.3823285280
+	},
+	{
+		"zip_id" : 81320,
+		"city" : "Cahone",
+		"county" : "Dolores",
+		"population2018" : 187,
+		"CO2e_transportation_kgPerYear" : 1786373.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2734.1088162000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2575.6612586460
+	},
+	{
+		"zip_id" : 81324,
+		"city" : "Dove Creek",
+		"county" : "Dolores",
+		"population2018" : 1289,
+		"CO2e_transportation_kgPerYear" : 12313555.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 11470.1292160000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 9444.1040105780
+	},
+	{
+		"zip_id" : 81332,
+		"city" : "Rico",
+		"county" : "Dolores",
+		"population2018" : 174,
+		"CO2e_transportation_kgPerYear" : 1662187.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 705.8363847000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 15576.1668862000
+	},
+	{
+		"zip_id" : 80104,
+		"city" : "Castle Rock",
+		"county" : "Douglas",
+		"population2018" : 30718,
+		"CO2e_transportation_kgPerYear" : 96085509.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 278114.7079420000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 886245.7029400000
+	},
+	{
+		"zip_id" : 80108,
+		"city" : "Castle Rock",
+		"county" : "Douglas",
+		"population2018" : 27101,
+		"CO2e_transportation_kgPerYear" : 84771579.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 205323.3433670000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80109,
+		"city" : "Castle Rock",
+		"county" : "Douglas",
+		"population2018" : 22734,
+		"CO2e_transportation_kgPerYear" : 71111659.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 149238.2826620000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 474664.5821300000
+	},
+	{
+		"zip_id" : 80116,
+		"city" : "Franktown",
+		"county" : "Douglas",
+		"population2018" : 4014,
+		"CO2e_transportation_kgPerYear" : 12555740.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 67960.9271350000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80118,
+		"city" : "Larkspur",
+		"county" : "Douglas",
+		"population2018" : 6395,
+		"CO2e_transportation_kgPerYear" : 20003478.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 50966.3844160000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 162300.0865580000
+	},
+	{
+		"zip_id" : 80124,
+		"city" : "Littleton",
+		"county" : "Douglas",
+		"population2018" : 21384,
+		"CO2e_transportation_kgPerYear" : 66888877.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 110318.3027062000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 501255.1772086000
+	},
+	{
+		"zip_id" : 80125,
+		"city" : "Littleton",
+		"county" : "Douglas",
+		"population2018" : 10552,
+		"CO2e_transportation_kgPerYear" : 33006520.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 108339.2499500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 190755.6584293000
+	},
+	{
+		"zip_id" : 80129,
+		"city" : "Littleton",
+		"county" : "Douglas",
+		"population2018" : 30058,
+		"CO2e_transportation_kgPerYear" : 94021037.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 89810.0217788000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 419181.7388952000
+	},
+	{
+		"zip_id" : 80130,
+		"city" : "Littleton",
+		"county" : "Douglas",
+		"population2018" : 28932,
+		"CO2e_transportation_kgPerYear" : 90498924.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 45615.2606901000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 224908.6800407000
+	},
+	{
+		"zip_id" : 80131,
+		"city" : "Louviers",
+		"county" : "Douglas",
+		"population2018" : 295,
+		"CO2e_transportation_kgPerYear" : 922756.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3292.9944438300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5783.7915943550
+	},
+	{
+		"zip_id" : 80134,
+		"city" : "Parker",
+		"county" : "Douglas",
+		"population2018" : 66679,
+		"CO2e_transportation_kgPerYear" : 208571054.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 502040.6918800000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 893815.2386821000
+	},
+	{
+		"zip_id" : 80138,
+		"city" : "Parker",
+		"county" : "Douglas",
+		"population2018" : 33603,
+		"CO2e_transportation_kgPerYear" : 105109751.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 212601.3458860000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 381483.2598573000
+	},
+	{
+		"zip_id" : 80423,
+		"city" : "Bond",
+		"county" : "Eagle",
+		"population2018" : 225,
+		"CO2e_transportation_kgPerYear" : 1718081.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 22447.2524454000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80426,
+		"city" : "Burns",
+		"county" : "Eagle",
+		"population2018" : 83,
+		"CO2e_transportation_kgPerYear" : 633781.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 12626.8885991000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80463,
+		"city" : "Mc Coy",
+		"county" : "Eagle",
+		"population2018" : 186,
+		"CO2e_transportation_kgPerYear" : 1420281.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 28018.4439021000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81620,
+		"city" : "Avon",
+		"county" : "Eagle",
+		"population2018" : 10842,
+		"CO2e_transportation_kgPerYear" : 82788610.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 118488.7145770000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 359944.2659648000
+	},
+	{
+		"zip_id" : 81621,
+		"city" : "Basalt",
+		"county" : "Eagle",
+		"population2018" : 5929,
+		"CO2e_transportation_kgPerYear" : 45273351.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 77113.1424720000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 434260.5254690000
+	},
+	{
+		"zip_id" : 81631,
+		"city" : "Eagle",
+		"county" : "Eagle",
+		"population2018" : 8411,
+		"CO2e_transportation_kgPerYear" : 64225696.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 81490.9979540000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 453092.9032620000
+	},
+	{
+		"zip_id" : 81632,
+		"city" : "Edwards",
+		"county" : "Eagle",
+		"population2018" : 10011,
+		"CO2e_transportation_kgPerYear" : 76443163.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 100065.3183310000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 303281.3504857000
+	},
+	{
+		"zip_id" : 81645,
+		"city" : "Minturn",
+		"county" : "Eagle",
+		"population2018" : 1114,
+		"CO2e_transportation_kgPerYear" : 8506411.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 8923.7361678600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 40006.0796271400
+	},
+	{
+		"zip_id" : 81649,
+		"city" : "Red Cliff",
+		"county" : "Eagle",
+		"population2018" : 370,
+		"CO2e_transportation_kgPerYear" : 2825289.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2311.6932818240,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81657,
+		"city" : "Vail",
+		"county" : "Eagle",
+		"population2018" : 5850,
+		"CO2e_transportation_kgPerYear" : 44670113.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 80155.8754600000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 244706.4747459000
+	},
+	{
+		"zip_id" : 80106,
+		"city" : "Elbert",
+		"county" : "El Paso",
+		"population2018" : 5194,
+		"CO2e_transportation_kgPerYear" : 9589004.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 36276.0003610000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 77327.4281140000
+	},
+	{
+		"zip_id" : 80132,
+		"city" : "Monument",
+		"county" : "El Paso",
+		"population2018" : 20843,
+		"CO2e_transportation_kgPerYear" : 38479708.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 290137.2797200000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 632300.4802700000
+	},
+	{
+		"zip_id" : 80133,
+		"city" : "Palmer Lake",
+		"county" : "El Paso",
+		"population2018" : 2558,
+		"CO2e_transportation_kgPerYear" : 4722501.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 28539.6227133000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 91030.5710510000
+	},
+	{
+		"zip_id" : 80808,
+		"city" : "Calhan",
+		"county" : "El Paso",
+		"population2018" : 5544,
+		"CO2e_transportation_kgPerYear" : 10235163.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 43041.2898980000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 92162.0097320000
+	},
+	{
+		"zip_id" : 80809,
+		"city" : "Cascade",
+		"county" : "El Paso",
+		"population2018" : 1185,
+		"CO2e_transportation_kgPerYear" : 2187711.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3288.0660321800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 296.9672925500
+	},
+	{
+		"zip_id" : 80819,
+		"city" : "Green Mountain Falls",
+		"county" : "El Paso",
+		"population2018" : 779,
+		"CO2e_transportation_kgPerYear" : 1438166.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3452.9425401700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 159.2006342100
+	},
+	{
+		"zip_id" : 80829,
+		"city" : "Manitou Springs",
+		"county" : "El Paso",
+		"population2018" : 5794,
+		"CO2e_transportation_kgPerYear" : 10696705.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 32863.5311582000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1516.0985418000
+	},
+	{
+		"zip_id" : 80831,
+		"city" : "Peyton",
+		"county" : "El Paso",
+		"population2018" : 25048,
+		"CO2e_transportation_kgPerYear" : 46242850.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 190082.3427500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 406636.1568200000
+	},
+	{
+		"zip_id" : 80832,
+		"city" : "Ramah",
+		"county" : "El Paso",
+		"population2018" : 750,
+		"CO2e_transportation_kgPerYear" : 1384627.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3534.4228203000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80833,
+		"city" : "Rush",
+		"county" : "El Paso",
+		"population2018" : 729,
+		"CO2e_transportation_kgPerYear" : 1345857.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1320.8981812730,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80864,
+		"city" : "Yoder",
+		"county" : "El Paso",
+		"population2018" : 1333,
+		"CO2e_transportation_kgPerYear" : 2460944.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 51744.6323406900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 9477.5121461000
+	},
+	{
+		"zip_id" : 80904,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 20235,
+		"CO2e_transportation_kgPerYear" : 37357237.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 50143.6176228000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5295.2178054000
+	},
+	{
+		"zip_id" : 80905,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 16363,
+		"CO2e_transportation_kgPerYear" : 30208869.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 31737.2631388000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3411.3208162000
+	},
+	{
+		"zip_id" : 80907,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 28897,
+		"CO2e_transportation_kgPerYear" : 53348756.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 104962.8647460000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 10857.6949091000
+	},
+	{
+		"zip_id" : 80908,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 17807,
+		"CO2e_transportation_kgPerYear" : 32874738.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 173788.7098200000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 375183.7448100000
+	},
+	{
+		"zip_id" : 80909,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 39119,
+		"CO2e_transportation_kgPerYear" : 72220299.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 89284.3796170000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 9480.5038919000
+	},
+	{
+		"zip_id" : 80910,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 30196,
+		"CO2e_transportation_kgPerYear" : 55746930.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 28533.6912710000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3327.5459802000
+	},
+	{
+		"zip_id" : 80911,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 35170,
+		"CO2e_transportation_kgPerYear" : 64929776.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 56559.1343840000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2595.2607191000
+	},
+	{
+		"zip_id" : 80914,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 443,
+		"CO2e_transportation_kgPerYear" : 817853.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5319.5270236900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 533.0798015010
+	},
+	{
+		"zip_id" : 80915,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 21325,
+		"CO2e_transportation_kgPerYear" : 39369562.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 117496.1960160000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5420.1322062000
+	},
+	{
+		"zip_id" : 80916,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 41098,
+		"CO2e_transportation_kgPerYear" : 75873868.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 34224.9950000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4073.3577983000
+	},
+	{
+		"zip_id" : 80917,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 31541,
+		"CO2e_transportation_kgPerYear" : 58230028.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 38641.3430280000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4348.9211620000
+	},
+	{
+		"zip_id" : 80918,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 49232,
+		"CO2e_transportation_kgPerYear" : 90890610.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 116558.9554590000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 12345.6936610000
+	},
+	{
+		"zip_id" : 80919,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 28146,
+		"CO2e_transportation_kgPerYear" : 51962283.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 63625.7909640000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6760.5192180000
+	},
+	{
+		"zip_id" : 80920,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 39758,
+		"CO2e_transportation_kgPerYear" : 73400001.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 111616.2347160000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11697.8790875000
+	},
+	{
+		"zip_id" : 80921,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 23618,
+		"CO2e_transportation_kgPerYear" : 43602828.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 252081.4299400000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 545683.5545300000
+	},
+	{
+		"zip_id" : 80922,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 29134,
+		"CO2e_transportation_kgPerYear" : 53786298.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 32963.7066100000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3747.4075932000
+	},
+	{
+		"zip_id" : 80923,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 29360,
+		"CO2e_transportation_kgPerYear" : 54203532.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 28429.6296800000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3303.1959904000
+	},
+	{
+		"zip_id" : 80924,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 8652,
+		"CO2e_transportation_kgPerYear" : 15973057.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 8212.5261355000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 103681.5590040000
+	},
+	{
+		"zip_id" : 80925,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 10836,
+		"CO2e_transportation_kgPerYear" : 20005091.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 11818.2983525000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 540.3558676000
+	},
+	{
+		"zip_id" : 80926,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 1938,
+		"CO2e_transportation_kgPerYear" : 3577876.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4140.2137765700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 190.3303934700
+	},
+	{
+		"zip_id" : 80927,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 3884,
+		"CO2e_transportation_kgPerYear" : 7170522.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3123.8488985000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80928,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 1390,
+		"CO2e_transportation_kgPerYear" : 2566175.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3146.7242801000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6079.9089722000
+	},
+	{
+		"zip_id" : 80930,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 1995,
+		"CO2e_transportation_kgPerYear" : 3683108.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7365.4910151000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 15072.1679450000
+	},
+	{
+		"zip_id" : 80938,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 112,
+		"CO2e_transportation_kgPerYear" : 206771.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4.7183610780,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2.3508795700
+	},
+	{
+		"zip_id" : 80939,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1514.5326346000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 149.6517809000
+	},
+	{
+		"zip_id" : 80951,
+		"city" : "Colorado Springs",
+		"county" : "El Paso",
+		"population2018" : 4435,
+		"CO2e_transportation_kgPerYear" : 8187761.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6186.7290977700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 283.5565359900
+	},
+	{
+		"zip_id" : 80101,
+		"city" : "Agate",
+		"county" : "Elbert",
+		"population2018" : 492,
+		"CO2e_transportation_kgPerYear" : 1862826.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1837.3275893000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80107,
+		"city" : "Elizabeth",
+		"county" : "Elbert",
+		"population2018" : 12904,
+		"CO2e_transportation_kgPerYear" : 48857528.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 97134.1523140000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 309215.9745150000
+	},
+	{
+		"zip_id" : 80117,
+		"city" : "Kiowa",
+		"county" : "Elbert",
+		"population2018" : 2889,
+		"CO2e_transportation_kgPerYear" : 10938422.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 24064.1317114000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 76649.9144640000
+	},
+	{
+		"zip_id" : 80830,
+		"city" : "Matheson",
+		"county" : "Elbert",
+		"population2018" : 181,
+		"CO2e_transportation_kgPerYear" : 685308.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1265.3303789000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80835,
+		"city" : "Simla",
+		"county" : "Elbert",
+		"population2018" : 947,
+		"CO2e_transportation_kgPerYear" : 3585561.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5580.5817697000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81221,
+		"city" : "Coal Creek",
+		"county" : "Fremont",
+		"population2018" : 346,
+		"CO2e_transportation_kgPerYear" : 1036559.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 161.2476521000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81222,
+		"city" : "Coaldale",
+		"county" : "Fremont",
+		"population2018" : 460,
+		"CO2e_transportation_kgPerYear" : 1378084.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 703.3549085000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81223,
+		"city" : "Cotopaxi",
+		"county" : "Fremont",
+		"population2018" : 1439,
+		"CO2e_transportation_kgPerYear" : 4311007.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1725.1518669000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81232,
+		"city" : "Hillside",
+		"county" : "Fremont",
+		"population2018" : 27,
+		"CO2e_transportation_kgPerYear" : 80888.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7.6135448630,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81233,
+		"city" : "Howard",
+		"county" : "Fremont",
+		"population2018" : 872,
+		"CO2e_transportation_kgPerYear" : 2612368.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 876.8962298000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81240,
+		"city" : "Penrose",
+		"county" : "Fremont",
+		"population2018" : 3607,
+		"CO2e_transportation_kgPerYear" : 10805978.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 15806.2511555000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81244,
+		"city" : "Rockvale",
+		"county" : "Fremont",
+		"population2018" : 381,
+		"CO2e_transportation_kgPerYear" : 1141413.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 177.5588308000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81601,
+		"city" : "Glenwood Springs",
+		"county" : "Garfield",
+		"population2018" : 15666,
+		"CO2e_transportation_kgPerYear" : 85525807.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 130785.5133600000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 839280.0269300000
+	},
+	{
+		"zip_id" : 81623,
+		"city" : "Carbondale",
+		"county" : "Garfield",
+		"population2018" : 16461,
+		"CO2e_transportation_kgPerYear" : 89865972.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 135271.1121120000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 745331.0247000000
+	},
+	{
+		"zip_id" : 81647,
+		"city" : "New Castle",
+		"county" : "Garfield",
+		"population2018" : 7333,
+		"CO2e_transportation_kgPerYear" : 40033240.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 19648.3359900000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 92372.0912763600
+	},
+	{
+		"zip_id" : 80422,
+		"city" : "Black Hawk",
+		"county" : "Gilpin",
+		"population2018" : 4618,
+		"CO2e_transportation_kgPerYear" : 21230552.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 8725.3648582000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 101124.7081310000
+	},
+	{
+		"zip_id" : 80427,
+		"city" : "Central City",
+		"county" : "Gilpin",
+		"population2018" : 781,
+		"CO2e_transportation_kgPerYear" : 3590529.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2466.8147190200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11298.2804110600
+	},
+	{
+		"zip_id" : 80442,
+		"city" : "Fraser",
+		"county" : "Grand",
+		"population2018" : 2323,
+		"CO2e_transportation_kgPerYear" : 21522449.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7793.5816854000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 66373.9681496500
+	},
+	{
+		"zip_id" : 80446,
+		"city" : "Granby",
+		"county" : "Grand",
+		"population2018" : 4486,
+		"CO2e_transportation_kgPerYear" : 41562508.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 13543.6922230000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 114280.8756111000
+	},
+	{
+		"zip_id" : 80447,
+		"city" : "Grand Lake",
+		"county" : "Grand",
+		"population2018" : 1937,
+		"CO2e_transportation_kgPerYear" : 17946183.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5916.0421987000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 49972.6032202300
+	},
+	{
+		"zip_id" : 80451,
+		"city" : "Hot Sulphur Springs",
+		"county" : "Grand",
+		"population2018" : 994,
+		"CO2e_transportation_kgPerYear" : 9209347.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1652.0651368000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80459,
+		"city" : "Kremmling",
+		"county" : "Grand",
+		"population2018" : 2501,
+		"CO2e_transportation_kgPerYear" : 23171608.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5476.0334875000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80468,
+		"city" : "Parshall",
+		"county" : "Grand",
+		"population2018" : 410,
+		"CO2e_transportation_kgPerYear" : 3798624.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 744.7478819000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80478,
+		"city" : "Tabernash",
+		"county" : "Grand",
+		"population2018" : 1330,
+		"CO2e_transportation_kgPerYear" : 12322366.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4404.7793548000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 37472.7882046100
+	},
+	{
+		"zip_id" : 80482,
+		"city" : "Winter Park",
+		"county" : "Grand",
+		"population2018" : 991,
+		"CO2e_transportation_kgPerYear" : 9181553.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 8649.0092022000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81210,
+		"city" : "Almont",
+		"county" : "Gunnison",
+		"population2018" : 224,
+		"CO2e_transportation_kgPerYear" : 1230777.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 641.7023942000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81224,
+		"city" : "Crested Butte",
+		"county" : "Gunnison",
+		"population2018" : 3374,
+		"CO2e_transportation_kgPerYear" : 18538575.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 42652.2829470000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 141947.4075239880
+	},
+	{
+		"zip_id" : 81225,
+		"city" : "Crested Butte",
+		"county" : "Gunnison",
+		"population2018" : 1470,
+		"CO2e_transportation_kgPerYear" : 8076973.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 10068.8917536000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 17457.2639100490
+	},
+	{
+		"zip_id" : 81230,
+		"city" : "Gunnison",
+		"county" : "Gunnison",
+		"population2018" : 9718,
+		"CO2e_transportation_kgPerYear" : 53395932.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 138800.4992200000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 152250.1706058520
+	},
+	{
+		"zip_id" : 81231,
+		"city" : "Gunnison",
+		"county" : "Gunnison",
+		"population2018" : 680,
+		"CO2e_transportation_kgPerYear" : 3736287.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7820.0245713000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1144.7509314340
+	},
+	{
+		"zip_id" : 81237,
+		"city" : "Ohio City",
+		"county" : "Gunnison",
+		"population2018" : 38,
+		"CO2e_transportation_kgPerYear" : 208792.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 393.2997911700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1144.7373856930
+	},
+	{
+		"zip_id" : 81239,
+		"city" : "Parlin",
+		"county" : "Gunnison",
+		"population2018" : 64,
+		"CO2e_transportation_kgPerYear" : 351651.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 512.1631469700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1144.7379342740
+	},
+	{
+		"zip_id" : 81241,
+		"city" : "Pitkin",
+		"county" : "Gunnison",
+		"population2018" : 114,
+		"CO2e_transportation_kgPerYear" : 626377.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 685.8524174300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 858.5548429080
+	},
+	{
+		"zip_id" : 81243,
+		"city" : "Powderhorn",
+		"county" : "Gunnison",
+		"population2018" : 101,
+		"CO2e_transportation_kgPerYear" : 554948.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 626.4207395300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81235,
+		"city" : "Lake City",
+		"county" : "Hinsdale",
+		"population2018" : 797,
+		"CO2e_transportation_kgPerYear" : 3018770.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7266.6300348000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81040,
+		"city" : "Gardner",
+		"county" : "Huerfano",
+		"population2018" : 298,
+		"CO2e_transportation_kgPerYear" : 5937822.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 821.6608784000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81055,
+		"city" : "La Veta",
+		"county" : "Huerfano",
+		"population2018" : 1443,
+		"CO2e_transportation_kgPerYear" : 28752609.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4338.4538336000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81089,
+		"city" : "Walsenburg",
+		"county" : "Huerfano",
+		"population2018" : 4424,
+		"CO2e_transportation_kgPerYear" : 88150756.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 10107.6205230000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 39183.8953400000
+	},
+	{
+		"zip_id" : 80434,
+		"city" : "Cowdrey",
+		"county" : "Jackson",
+		"population2018" : 41,
+		"CO2e_transportation_kgPerYear" : 817530.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 263.0743279800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80473,
+		"city" : "Rand",
+		"county" : "Jackson",
+		"population2018" : 4,
+		"CO2e_transportation_kgPerYear" : 79759.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1.4553208560,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80480,
+		"city" : "Walden",
+		"county" : "Jackson",
+		"population2018" : 1251,
+		"CO2e_transportation_kgPerYear" : 24944641.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3135.2503219000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80002,
+		"city" : "Arvada",
+		"county" : "Jefferson",
+		"population2018" : 18266,
+		"CO2e_transportation_kgPerYear" : 44718713.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 98100.5026837000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 445082.4454031000
+	},
+	{
+		"zip_id" : 80003,
+		"city" : "Arvada",
+		"county" : "Jefferson",
+		"population2018" : 36969,
+		"CO2e_transportation_kgPerYear" : 90507287.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 77840.3221396000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 372902.9364196000
+	},
+	{
+		"zip_id" : 80004,
+		"city" : "Arvada",
+		"county" : "Jefferson",
+		"population2018" : 37042,
+		"CO2e_transportation_kgPerYear" : 90686005.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 65073.4965074000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 317131.8458616000
+	},
+	{
+		"zip_id" : 80005,
+		"city" : "Arvada",
+		"county" : "Jefferson",
+		"population2018" : 29117,
+		"CO2e_transportation_kgPerYear" : 71284067.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 54411.3540616000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 263540.5410561000
+	},
+	{
+		"zip_id" : 80021,
+		"city" : "Broomfield",
+		"county" : "Jefferson",
+		"population2018" : 33725,
+		"CO2e_transportation_kgPerYear" : 82565345.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 136998.1484307000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 628778.0262947000
+	},
+	{
+		"zip_id" : 80123,
+		"city" : "Littleton",
+		"county" : "Jefferson",
+		"population2018" : 46586,
+		"CO2e_transportation_kgPerYear" : 114051569.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 124338.3544530000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 584707.2460792000
+	},
+	{
+		"zip_id" : 80127,
+		"city" : "Littleton",
+		"county" : "Jefferson",
+		"population2018" : 44851,
+		"CO2e_transportation_kgPerYear" : 109803952.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 141459.8234260000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 658063.3967649000
+	},
+	{
+		"zip_id" : 80128,
+		"city" : "Littleton",
+		"county" : "Jefferson",
+		"population2018" : 36293,
+		"CO2e_transportation_kgPerYear" : 88852308.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 70915.9787169000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 342025.8351318000
+	},
+	{
+		"zip_id" : 80214,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 26245,
+		"CO2e_transportation_kgPerYear" : 64252853.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 82389.4306398000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 383378.9651523000
+	},
+	{
+		"zip_id" : 80215,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 19415,
+		"CO2e_transportation_kgPerYear" : 47531688.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 87244.1919279000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 398612.0102926000
+	},
+	{
+		"zip_id" : 80226,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 32640,
+		"CO2e_transportation_kgPerYear" : 79909055.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 105677.6940867000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 490846.2530821000
+	},
+	{
+		"zip_id" : 80227,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 36034,
+		"CO2e_transportation_kgPerYear" : 88218225.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 80433.7146774000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 383423.7887035000
+	},
+	{
+		"zip_id" : 80228,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 34109,
+		"CO2e_transportation_kgPerYear" : 83505452.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 111261.0631494000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 516555.1791311000
+	},
+	{
+		"zip_id" : 80232,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 22553,
+		"CO2e_transportation_kgPerYear" : 55214121.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 41166.3575844000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 199848.6466068000
+	},
+	{
+		"zip_id" : 80235,
+		"city" : "Denver",
+		"county" : "Jefferson",
+		"population2018" : 8742,
+		"CO2e_transportation_kgPerYear" : 21402113.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 23032.3415106000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 108409.4872715000
+	},
+	{
+		"zip_id" : 80419,
+		"city" : "Golden",
+		"county" : "Jefferson",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80425,
+		"city" : "Buffalo Creek",
+		"county" : "Jefferson",
+		"population2018" : 179,
+		"CO2e_transportation_kgPerYear" : 438227.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1386.2782302300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6094.9119475000
+	},
+	{
+		"zip_id" : 80433,
+		"city" : "Conifer",
+		"county" : "Jefferson",
+		"population2018" : 8749,
+		"CO2e_transportation_kgPerYear" : 21419250.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 93936.7906550000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 165174.9611111000
+	},
+	{
+		"zip_id" : 80439,
+		"city" : "Evergreen",
+		"county" : "Jefferson",
+		"population2018" : 24687,
+		"CO2e_transportation_kgPerYear" : 60438567.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 116470.3463454000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 531062.0548464000
+	},
+	{
+		"zip_id" : 80453,
+		"city" : "Idledale",
+		"county" : "Jefferson",
+		"population2018" : 237,
+		"CO2e_transportation_kgPerYear" : 580222.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1261.7939469600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5726.5727388550
+	},
+	{
+		"zip_id" : 80454,
+		"city" : "Indian Hills",
+		"county" : "Jefferson",
+		"population2018" : 1347,
+		"CO2e_transportation_kgPerYear" : 3297717.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5580.3509399400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 25588.5691599900
+	},
+	{
+		"zip_id" : 80457,
+		"city" : "Kittredge",
+		"county" : "Jefferson",
+		"population2018" : 372,
+		"CO2e_transportation_kgPerYear" : 910728.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2835.0473293170,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 12725.7103818700
+	},
+	{
+		"zip_id" : 80465,
+		"city" : "Morrison",
+		"county" : "Jefferson",
+		"population2018" : 16062,
+		"CO2e_transportation_kgPerYear" : 39322893.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 96592.6187350000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 173762.6607253000
+	},
+	{
+		"zip_id" : 80470,
+		"city" : "Pine",
+		"county" : "Jefferson",
+		"population2018" : 3186,
+		"CO2e_transportation_kgPerYear" : 7799946.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 30307.7560717000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 132541.9967010000
+	},
+	{
+		"zip_id" : 81021,
+		"city" : "Arlington",
+		"county" : "Kiowa",
+		"population2018" : 31,
+		"CO2e_transportation_kgPerYear" : 1311741.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.4088875510,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81045,
+		"city" : "Haswell",
+		"county" : "Kiowa",
+		"population2018" : 60,
+		"CO2e_transportation_kgPerYear" : 2538853.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.7913952600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81071,
+		"city" : "Sheridan Lake",
+		"county" : "Kiowa",
+		"population2018" : 299,
+		"CO2e_transportation_kgPerYear" : 12651949.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 36212.8789143780,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80805,
+		"city" : "Bethune",
+		"county" : "Kit Carson",
+		"population2018" : 383,
+		"CO2e_transportation_kgPerYear" : 9545905.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 36724.4660260000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3690.8880629000
+	},
+	{
+		"zip_id" : 80807,
+		"city" : "Burlington",
+		"county" : "Kit Carson",
+		"population2018" : 5112,
+		"CO2e_transportation_kgPerYear" : 127411655.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 175187.2820460000
+	},
+	{
+		"zip_id" : 80815,
+		"city" : "Flagler",
+		"county" : "Kit Carson",
+		"population2018" : 731,
+		"CO2e_transportation_kgPerYear" : 18219468.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 107765.1009000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 29689.8264914000
+	},
+	{
+		"zip_id" : 80834,
+		"city" : "Seibert",
+		"county" : "Kit Carson",
+		"population2018" : 218,
+		"CO2e_transportation_kgPerYear" : 5433439.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 23365.4555460000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3580.9062298000
+	},
+	{
+		"zip_id" : 80836,
+		"city" : "Stratton",
+		"county" : "Kit Carson",
+		"population2018" : 1082,
+		"CO2e_transportation_kgPerYear" : 26967803.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 127610.3060900000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 24770.3924915000
+	},
+	{
+		"zip_id" : 80861,
+		"city" : "Vona",
+		"county" : "Kit Carson",
+		"population2018" : 240,
+		"CO2e_transportation_kgPerYear" : 5981768.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 25146.6569460000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3595.5704742000
+	},
+	{
+		"zip_id" : 81122,
+		"city" : "Bayfield",
+		"county" : "La Plata",
+		"population2018" : 8774,
+		"CO2e_transportation_kgPerYear" : 30477139.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 215621.5218000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81326,
+		"city" : "Hesperus",
+		"county" : "La Plata",
+		"population2018" : 2203,
+		"CO2e_transportation_kgPerYear" : 7652284.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 54565.9278650000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 15453.9903542250
+	},
+	{
+		"zip_id" : 80461,
+		"city" : "Leadville",
+		"county" : "Lake",
+		"population2018" : 7426,
+		"CO2e_transportation_kgPerYear" : 32564606.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 22162.4985951000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 103449.3680614700
+	},
+	{
+		"zip_id" : 81251,
+		"city" : "Twin Lakes",
+		"county" : "Lake",
+		"population2018" : 159,
+		"CO2e_transportation_kgPerYear" : 697249.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 561.1137161500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80511,
+		"city" : "Estes Park",
+		"county" : "Larimer",
+		"population2018" : 151,
+		"CO2e_transportation_kgPerYear" : 344264.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 215.9911894170,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1522.1574948640
+	},
+	{
+		"zip_id" : 80512,
+		"city" : "Bellvue",
+		"county" : "Larimer",
+		"population2018" : 1708,
+		"CO2e_transportation_kgPerYear" : 3894054.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 24317.7769566000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80513,
+		"city" : "Berthoud",
+		"county" : "Larimer",
+		"population2018" : 12580,
+		"CO2e_transportation_kgPerYear" : 28681033.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 212202.3022600000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 200995.4923269000
+	},
+	{
+		"zip_id" : 80515,
+		"city" : "Drake",
+		"county" : "Larimer",
+		"population2018" : 1069,
+		"CO2e_transportation_kgPerYear" : 2437204.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7972.6072699000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80517,
+		"city" : "Estes Park",
+		"county" : "Larimer",
+		"population2018" : 10012,
+		"CO2e_transportation_kgPerYear" : 22826272.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 64786.0868500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 290923.6165763000
+	},
+	{
+		"zip_id" : 80521,
+		"city" : "Fort Collins",
+		"county" : "Larimer",
+		"population2018" : 37076,
+		"CO2e_transportation_kgPerYear" : 84529252.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 111909.2630500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 346917.8631956000
+	},
+	{
+		"zip_id" : 80528,
+		"city" : "Fort Collins",
+		"county" : "Larimer",
+		"population2018" : 21259,
+		"CO2e_transportation_kgPerYear" : 48468211.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 82474.7637740000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 275470.7793976000
+	},
+	{
+		"zip_id" : 80532,
+		"city" : "Glen Haven",
+		"county" : "Larimer",
+		"population2018" : 223,
+		"CO2e_transportation_kgPerYear" : 508416.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4111.8407871100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80535,
+		"city" : "Laporte",
+		"county" : "Larimer",
+		"population2018" : 2613,
+		"CO2e_transportation_kgPerYear" : 5957356.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 44792.1562840000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 42400.3518586500
+	},
+	{
+		"zip_id" : 80536,
+		"city" : "Livermore",
+		"county" : "Larimer",
+		"population2018" : 2153,
+		"CO2e_transportation_kgPerYear" : 4908606.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 25502.9656297000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80537,
+		"city" : "Loveland",
+		"county" : "Larimer",
+		"population2018" : 43637,
+		"CO2e_transportation_kgPerYear" : 99487619.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 88146.5319200000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 691195.5260165000
+	},
+	{
+		"zip_id" : 80538,
+		"city" : "Loveland",
+		"county" : "Larimer",
+		"population2018" : 48260,
+		"CO2e_transportation_kgPerYear" : 110027557.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 93085.5924200000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 694383.0722353000
+	},
+	{
+		"zip_id" : 80545,
+		"city" : "Red Feather Lakes",
+		"county" : "Larimer",
+		"population2018" : 845,
+		"CO2e_transportation_kgPerYear" : 1926508.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 13914.7753854000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80547,
+		"city" : "Timnath",
+		"county" : "Larimer",
+		"population2018" : 2221,
+		"CO2e_transportation_kgPerYear" : 5063639.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4978.7419756300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 22608.5943798120
+	},
+	{
+		"zip_id" : 81020,
+		"city" : "Aguilar",
+		"county" : "Las Animas",
+		"population2018" : 877,
+		"CO2e_transportation_kgPerYear" : 9437070.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4663.3579381000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3309.2018100000
+	},
+	{
+		"zip_id" : 81024,
+		"city" : "Boncarbo",
+		"county" : "Las Animas",
+		"population2018" : 190,
+		"CO2e_transportation_kgPerYear" : 2044519.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 879.8106011000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 2177.8266474700
+	},
+	{
+		"zip_id" : 81027,
+		"city" : "Branson",
+		"county" : "Las Animas",
+		"population2018" : 187,
+		"CO2e_transportation_kgPerYear" : 2012237.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 703.7599362000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81059,
+		"city" : "Model",
+		"county" : "Las Animas",
+		"population2018" : 541,
+		"CO2e_transportation_kgPerYear" : 5821499.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1303.3918400000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81081,
+		"city" : "Trinchera",
+		"county" : "Las Animas",
+		"population2018" : 78,
+		"CO2e_transportation_kgPerYear" : 839329.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 38.3113340800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80804,
+		"city" : "Arriba",
+		"county" : "Lincoln",
+		"population2018" : 239,
+		"CO2e_transportation_kgPerYear" : 7382579.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 32209.9044680000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 7889.4000408000
+	},
+	{
+		"zip_id" : 80818,
+		"city" : "Genoa",
+		"county" : "Lincoln",
+		"population2018" : 326,
+		"CO2e_transportation_kgPerYear" : 10069962.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2509.0865478000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5370.6927879000
+	},
+	{
+		"zip_id" : 80821,
+		"city" : "Hugo",
+		"county" : "Lincoln",
+		"population2018" : 1066,
+		"CO2e_transportation_kgPerYear" : 32928157.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7194.3765827000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 15311.8361144000
+	},
+	{
+		"zip_id" : 80823,
+		"city" : "Karval",
+		"county" : "Lincoln",
+		"population2018" : 163,
+		"CO2e_transportation_kgPerYear" : 5034981.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 97.6832240200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80722,
+		"city" : "Atwood",
+		"county" : "Logan",
+		"population2018" : 259,
+		"CO2e_transportation_kgPerYear" : 1942184.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 694.2757813000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3459.6245018820
+	},
+	{
+		"zip_id" : 80726,
+		"city" : "Crook",
+		"county" : "Logan",
+		"population2018" : 490,
+		"CO2e_transportation_kgPerYear" : 3674402.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 718.0233071000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5480.0080645000
+	},
+	{
+		"zip_id" : 80728,
+		"city" : "Fleming",
+		"county" : "Logan",
+		"population2018" : 1156,
+		"CO2e_transportation_kgPerYear" : 8668588.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1681.1978307000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 12795.1285332000
+	},
+	{
+		"zip_id" : 80736,
+		"city" : "Iliff",
+		"county" : "Logan",
+		"population2018" : 679,
+		"CO2e_transportation_kgPerYear" : 5091671.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 722.5057181600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4747.0880301000
+	},
+	{
+		"zip_id" : 80741,
+		"city" : "Merino",
+		"county" : "Logan",
+		"population2018" : 974,
+		"CO2e_transportation_kgPerYear" : 7303810.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1844.3474831000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80745,
+		"city" : "Padroni",
+		"county" : "Logan",
+		"population2018" : 287,
+		"CO2e_transportation_kgPerYear" : 2152149.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 131.6449514000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81501,
+		"city" : "Grand Junction",
+		"county" : "Mesa",
+		"population2018" : 23950,
+		"CO2e_transportation_kgPerYear" : 77419857.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 138116.9234784000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 625085.1710936000
+	},
+	{
+		"zip_id" : 81504,
+		"city" : "Grand Junction",
+		"county" : "Mesa",
+		"population2018" : 28669,
+		"CO2e_transportation_kgPerYear" : 92674316.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 37968.5077811000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 191234.9037966000
+	},
+	{
+		"zip_id" : 81505,
+		"city" : "Grand Junction",
+		"county" : "Mesa",
+		"population2018" : 10298,
+		"CO2e_transportation_kgPerYear" : 33288922.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 351640.6801800000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 466058.7729996000
+	},
+	{
+		"zip_id" : 81506,
+		"city" : "Grand Junction",
+		"county" : "Mesa",
+		"population2018" : 11799,
+		"CO2e_transportation_kgPerYear" : 38140997.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 45714.7239456000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 210295.0793695000
+	},
+	{
+		"zip_id" : 81520,
+		"city" : "Clifton",
+		"county" : "Mesa",
+		"population2018" : 13801,
+		"CO2e_transportation_kgPerYear" : 44612586.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 16563.8549851000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 84563.3381519600
+	},
+	{
+		"zip_id" : 81521,
+		"city" : "Fruita",
+		"county" : "Mesa",
+		"population2018" : 15781,
+		"CO2e_transportation_kgPerYear" : 51013059.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 223069.3225656000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 155176.2296952000
+	},
+	{
+		"zip_id" : 81522,
+		"city" : "Gateway",
+		"county" : "Mesa",
+		"population2018" : 131,
+		"CO2e_transportation_kgPerYear" : 423466.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3287.8822318000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81523,
+		"city" : "Glade Park",
+		"county" : "Mesa",
+		"population2018" : 1074,
+		"CO2e_transportation_kgPerYear" : 3471771.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 21663.6103009000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81525,
+		"city" : "Mack",
+		"county" : "Mesa",
+		"population2018" : 1468,
+		"CO2e_transportation_kgPerYear" : 4745401.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 24634.9705943000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81527,
+		"city" : "Whitewater",
+		"county" : "Mesa",
+		"population2018" : 1853,
+		"CO2e_transportation_kgPerYear" : 5989937.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 36309.7879680000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81643,
+		"city" : "Mesa",
+		"county" : "Mesa",
+		"population2018" : 561,
+		"CO2e_transportation_kgPerYear" : 1813467.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 16715.9194426000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81646,
+		"city" : "Molina",
+		"county" : "Mesa",
+		"population2018" : 222,
+		"CO2e_transportation_kgPerYear" : 717629.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2971.2222990000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 147.9755573000
+	},
+	{
+		"zip_id" : 81130,
+		"city" : "Creede",
+		"county" : "Mineral",
+		"population2018" : 793,
+		"CO2e_transportation_kgPerYear" : 9225855.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5851.2990679510,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81610,
+		"city" : "Dinosaur",
+		"county" : "Moffat",
+		"population2018" : 320,
+		"CO2e_transportation_kgPerYear" : 1632431.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 202906.6202391600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81633,
+		"city" : "Dinosaur",
+		"county" : "Moffat",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81638,
+		"city" : "Hamilton",
+		"county" : "Moffat",
+		"population2018" : 153,
+		"CO2e_transportation_kgPerYear" : 780506.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 23324.0377981000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1717.1081035810
+	},
+	{
+		"zip_id" : 81640,
+		"city" : "Maybell",
+		"county" : "Moffat",
+		"population2018" : 101,
+		"CO2e_transportation_kgPerYear" : 515236.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 15605.0801881000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81653,
+		"city" : "Slater",
+		"county" : "Moffat",
+		"population2018" : 16,
+		"CO2e_transportation_kgPerYear" : 81622.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2375.0638810000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81323,
+		"city" : "Dolores",
+		"county" : "Montezuma",
+		"population2018" : 4418,
+		"CO2e_transportation_kgPerYear" : 26446458.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 33143.1973920000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 26329.0346379410
+	},
+	{
+		"zip_id" : 81327,
+		"city" : "Lewis",
+		"county" : "Montezuma",
+		"population2018" : 401,
+		"CO2e_transportation_kgPerYear" : 2400414.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4075.1789056000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3434.2182115830
+	},
+	{
+		"zip_id" : 81328,
+		"city" : "Mancos",
+		"county" : "Montezuma",
+		"population2018" : 4700,
+		"CO2e_transportation_kgPerYear" : 28134529.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 35588.3825890000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 28332.3296095390
+	},
+	{
+		"zip_id" : 81330,
+		"city" : "Mesa Verde National ",
+		"county" : "Montezuma",
+		"population2018" : 94,
+		"CO2e_transportation_kgPerYear" : 562691.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1009.9562290000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 858.5544209230
+	},
+	{
+		"zip_id" : 81331,
+		"city" : "Pleasant View",
+		"county" : "Montezuma",
+		"population2018" : 320,
+		"CO2e_transportation_kgPerYear" : 1915542.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 452.5310712000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0067517710
+	},
+	{
+		"zip_id" : 81334,
+		"city" : "Towaoc",
+		"county" : "Montezuma",
+		"population2018" : 1422,
+		"CO2e_transportation_kgPerYear" : 8512192.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2010.9349480000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0300031830
+	},
+	{
+		"zip_id" : 81335,
+		"city" : "Yellow Jacket",
+		"county" : "Montezuma",
+		"population2018" : 24,
+		"CO2e_transportation_kgPerYear" : 143666.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1203.3067994400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1144.7370903030
+	},
+	{
+		"zip_id" : 81220,
+		"city" : "Cimarron",
+		"county" : "Montrose",
+		"population2018" : 134,
+		"CO2e_transportation_kgPerYear" : 499463.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 334.5530891310,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6101.6131516000
+	},
+	{
+		"zip_id" : 81411,
+		"city" : "Bedrock",
+		"county" : "Montrose",
+		"population2018" : 52,
+		"CO2e_transportation_kgPerYear" : 193822.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 18.6236206600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81425,
+		"city" : "Olathe",
+		"county" : "Montrose",
+		"population2018" : 5582,
+		"CO2e_transportation_kgPerYear" : 20805993.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3674.1282022600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 82739.4474110000
+	},
+	{
+		"zip_id" : 81429,
+		"city" : "Paradox",
+		"county" : "Montrose",
+		"population2018" : 46,
+		"CO2e_transportation_kgPerYear" : 171457.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 16.4747413500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80649,
+		"city" : "Orchard",
+		"county" : "Morgan",
+		"population2018" : 334,
+		"CO2e_transportation_kgPerYear" : 3384940.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4960.2411300000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80653,
+		"city" : "Weldona",
+		"county" : "Morgan",
+		"population2018" : 764,
+		"CO2e_transportation_kgPerYear" : 7742796.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 8757.1273540000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80654,
+		"city" : "Wiggins",
+		"county" : "Morgan",
+		"population2018" : 2647,
+		"CO2e_transportation_kgPerYear" : 26826154.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 43842.7855500000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80705,
+		"city" : "Log Lane Village",
+		"county" : "Morgan",
+		"population2018" : 1244,
+		"CO2e_transportation_kgPerYear" : 12607380.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 9830.7407680000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3973.6281245280
+	},
+	{
+		"zip_id" : 80733,
+		"city" : "Hillrose",
+		"county" : "Morgan",
+		"population2018" : 450,
+		"CO2e_transportation_kgPerYear" : 4560547.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 3913.3949908000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80750,
+		"city" : "Snyder",
+		"county" : "Morgan",
+		"population2018" : 285,
+		"CO2e_transportation_kgPerYear" : 2888347.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4244.1454050000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81030,
+		"city" : "Cheraw",
+		"county" : "Otero",
+		"population2018" : 183,
+		"CO2e_transportation_kgPerYear" : 567528.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81039,
+		"city" : "Fowler",
+		"county" : "Otero",
+		"population2018" : 1698,
+		"CO2e_transportation_kgPerYear" : 5265912.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6676.8533850000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81050,
+		"city" : "La Junta",
+		"county" : "Otero",
+		"population2018" : 9065,
+		"CO2e_transportation_kgPerYear" : 28112774.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81058,
+		"city" : "Manzanola",
+		"county" : "Otero",
+		"population2018" : 1051,
+		"CO2e_transportation_kgPerYear" : 3259407.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1814.0452400900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81067,
+		"city" : "Rocky Ford",
+		"county" : "Otero",
+		"population2018" : 5754,
+		"CO2e_transportation_kgPerYear" : 17844556.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 16806.8254585000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81077,
+		"city" : "Swink",
+		"county" : "Otero",
+		"population2018" : 719,
+		"CO2e_transportation_kgPerYear" : 2229794.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1659.3220593900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81427,
+		"city" : "Ouray",
+		"county" : "Ouray",
+		"population2018" : 1039,
+		"CO2e_transportation_kgPerYear" : 3222192.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6934.0101159000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 89159.1724102000
+	},
+	{
+		"zip_id" : 81432,
+		"city" : "Ridgway",
+		"county" : "Ouray",
+		"population2018" : 2998,
+		"CO2e_transportation_kgPerYear" : 9297529.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 12413.6987078000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 154882.3985290000
+	},
+	{
+		"zip_id" : 80420,
+		"city" : "Alma",
+		"county" : "Park",
+		"population2018" : 962,
+		"CO2e_transportation_kgPerYear" : 7253812.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4419.5566387700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80421,
+		"city" : "Bailey",
+		"county" : "Park",
+		"population2018" : 9365,
+		"CO2e_transportation_kgPerYear" : 70615330.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 49304.4873440000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 219695.3290100000
+	},
+	{
+		"zip_id" : 80432,
+		"city" : "Como",
+		"county" : "Park",
+		"population2018" : 187,
+		"CO2e_transportation_kgPerYear" : 1410044.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1388.3033897000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80440,
+		"city" : "Fairplay",
+		"county" : "Park",
+		"population2018" : 2681,
+		"CO2e_transportation_kgPerYear" : 20215665.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 36884.7443162000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80448,
+		"city" : "Grant",
+		"county" : "Park",
+		"population2018" : 55,
+		"CO2e_transportation_kgPerYear" : 414719.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2159.4674305500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80449,
+		"city" : "Hartsel",
+		"county" : "Park",
+		"population2018" : 778,
+		"CO2e_transportation_kgPerYear" : 5866388.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1723.5821055000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80456,
+		"city" : "Jefferson",
+		"county" : "Park",
+		"population2018" : 715,
+		"CO2e_transportation_kgPerYear" : 5391347.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5276.6667182000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80475,
+		"city" : "Shawnee",
+		"county" : "Park",
+		"population2018" : 30,
+		"CO2e_transportation_kgPerYear" : 226210.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2689.5249223100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11515.4759104100
+	},
+	{
+		"zip_id" : 80820,
+		"city" : "Guffey",
+		"county" : "Park",
+		"population2018" : 751,
+		"CO2e_transportation_kgPerYear" : 5662799.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4481.2007637000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80827,
+		"city" : "Lake George",
+		"county" : "Park",
+		"population2018" : 717,
+		"CO2e_transportation_kgPerYear" : 5406427.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7959.1035824000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80721,
+		"city" : "Amherst",
+		"county" : "Phillips",
+		"population2018" : 295,
+		"CO2e_transportation_kgPerYear" : 1700583.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 224.5824961000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 196.6341864000
+	},
+	{
+		"zip_id" : 80731,
+		"city" : "Haxtun",
+		"county" : "Phillips",
+		"population2018" : 1296,
+		"CO2e_transportation_kgPerYear" : 7471036.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4787.2072903000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 44667.7177672000
+	},
+	{
+		"zip_id" : 80734,
+		"city" : "Holyoke",
+		"county" : "Phillips",
+		"population2018" : 2973,
+		"CO2e_transportation_kgPerYear" : 17138417.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 73270.3083150000
+	},
+	{
+		"zip_id" : 80746,
+		"city" : "Paoli",
+		"county" : "Phillips",
+		"population2018" : 64,
+		"CO2e_transportation_kgPerYear" : 368940.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 29.3563654600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 42.6596201100
+	},
+	{
+		"zip_id" : 81611,
+		"city" : "Aspen",
+		"county" : "Pitkin",
+		"population2018" : 10653,
+		"CO2e_transportation_kgPerYear" : 52933905.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 60271.8911400000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 995693.8346790000
+	},
+	{
+		"zip_id" : 81612,
+		"city" : "Aspen",
+		"county" : "Pitkin",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1503.0642860000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 43803.8604600000
+	},
+	{
+		"zip_id" : 81615,
+		"city" : "Snowmass Village",
+		"county" : "Pitkin",
+		"population2018" : 2824,
+		"CO2e_transportation_kgPerYear" : 14032230.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 30783.1363050000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 165073.2084570000
+	},
+	{
+		"zip_id" : 81642,
+		"city" : "Meredith",
+		"county" : "Pitkin",
+		"population2018" : 0,
+		"CO2e_transportation_kgPerYear" : 0.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 882.4156115000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5153.3953480000
+	},
+	{
+		"zip_id" : 81654,
+		"city" : "Snowmass",
+		"county" : "Pitkin",
+		"population2018" : 1643,
+		"CO2e_transportation_kgPerYear" : 8163936.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 8010.2194974000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 42322.3152250000
+	},
+	{
+		"zip_id" : 81656,
+		"city" : "Woody Creek",
+		"county" : "Pitkin",
+		"population2018" : 175,
+		"CO2e_transportation_kgPerYear" : 869561.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2748.5289750000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 15576.8334427000
+	},
+	{
+		"zip_id" : 81041,
+		"city" : "Granada",
+		"county" : "Prowers",
+		"population2018" : 860,
+		"CO2e_transportation_kgPerYear" : 5386398.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 20702.1634020600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4008.8355440000
+	},
+	{
+		"zip_id" : 81043,
+		"city" : "Hartman",
+		"county" : "Prowers",
+		"population2018" : 58,
+		"CO2e_transportation_kgPerYear" : 363269.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.7650154180,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 38.6602807200
+	},
+	{
+		"zip_id" : 81047,
+		"city" : "Holly",
+		"county" : "Prowers",
+		"population2018" : 1523,
+		"CO2e_transportation_kgPerYear" : 9538936.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 24205.4447080000
+	},
+	{
+		"zip_id" : 81092,
+		"city" : "Wiley",
+		"county" : "Prowers",
+		"population2018" : 766,
+		"CO2e_transportation_kgPerYear" : 4797653.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 103464.2038404800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 17688.5668172000
+	},
+	{
+		"zip_id" : 81007,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 31860,
+		"CO2e_transportation_kgPerYear" : 100494340.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 55322.1076600000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 246564.1915847000
+	},
+	{
+		"zip_id" : 81008,
+		"city" : "Pueblo",
+		"county" : "Pueblo",
+		"population2018" : 10856,
+		"CO2e_transportation_kgPerYear" : 34242516.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 82895.3720670000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 252849.1665562000
+	},
+	{
+		"zip_id" : 81019,
+		"city" : "Colorado City",
+		"county" : "Pueblo",
+		"population2018" : 1735,
+		"CO2e_transportation_kgPerYear" : 5472620.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4228.6412749000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 49382.2450930000
+	},
+	{
+		"zip_id" : 81022,
+		"city" : "Avondale",
+		"county" : "Pueblo",
+		"population2018" : 1628,
+		"CO2e_transportation_kgPerYear" : 5135116.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2818.6376959800,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81023,
+		"city" : "Beulah",
+		"county" : "Pueblo",
+		"population2018" : 1192,
+		"CO2e_transportation_kgPerYear" : 3759864.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2611.3515788000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81025,
+		"city" : "Boone",
+		"county" : "Pueblo",
+		"population2018" : 722,
+		"CO2e_transportation_kgPerYear" : 2277367.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1366.4437501900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3916.3888135820
+	},
+	{
+		"zip_id" : 81069,
+		"city" : "Rye",
+		"county" : "Pueblo",
+		"population2018" : 2037,
+		"CO2e_transportation_kgPerYear" : 6425203.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2941.9795397000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 30531.6825040000
+	},
+	{
+		"zip_id" : 81125,
+		"city" : "Center",
+		"county" : "Rio Grande",
+		"population2018" : 3630,
+		"CO2e_transportation_kgPerYear" : 15016114.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 14651.5211552000
+	},
+	{
+		"zip_id" : 81132,
+		"city" : "Del Norte",
+		"county" : "Rio Grande",
+		"population2018" : 2994,
+		"CO2e_transportation_kgPerYear" : 12385192.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7036.6031858840,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 32248.4216202900
+	},
+	{
+		"zip_id" : 81144,
+		"city" : "Monte Vista",
+		"county" : "Rio Grande",
+		"population2018" : 7128,
+		"CO2e_transportation_kgPerYear" : 29486188.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 23412.8522021500,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 104528.5726897300
+	},
+	{
+		"zip_id" : 81154,
+		"city" : "South Fork",
+		"county" : "Rio Grande",
+		"population2018" : 1112,
+		"CO2e_transportation_kgPerYear" : 4599978.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6436.9227390330,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80428,
+		"city" : "Clark",
+		"county" : "Routt",
+		"population2018" : 824,
+		"CO2e_transportation_kgPerYear" : 2734948.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 127419.8685510000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80469,
+		"city" : "Phippsburg",
+		"county" : "Routt",
+		"population2018" : 366,
+		"CO2e_transportation_kgPerYear" : 1214795.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 55146.2388542000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80477,
+		"city" : "Steamboat Springs",
+		"county" : "Routt",
+		"population2018" : 130,
+		"CO2e_transportation_kgPerYear" : 431485.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 40938.6875140000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 60671.0416619070
+	},
+	{
+		"zip_id" : 80479,
+		"city" : "Toponas",
+		"county" : "Routt",
+		"population2018" : 5,
+		"CO2e_transportation_kgPerYear" : 16596.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 742.2074627000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80483,
+		"city" : "Yampa",
+		"county" : "Routt",
+		"population2018" : 748,
+		"CO2e_transportation_kgPerYear" : 2482695.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 112973.7862879000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80488,
+		"city" : "Steamboat Springs",
+		"county" : "Routt",
+		"population2018" : 205,
+		"CO2e_transportation_kgPerYear" : 680418.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 34922.0951830000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 12592.1067455530
+	},
+	{
+		"zip_id" : 81131,
+		"city" : "Crestone",
+		"county" : "Saguache",
+		"population2018" : 1125,
+		"CO2e_transportation_kgPerYear" : 19933086.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5260.8762949200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81143,
+		"city" : "Moffat",
+		"county" : "Saguache",
+		"population2018" : 774,
+		"CO2e_transportation_kgPerYear" : 13713963.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1074.0330644310,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81149,
+		"city" : "Saguache",
+		"county" : "Saguache",
+		"population2018" : 825,
+		"CO2e_transportation_kgPerYear" : 14617597.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1269.1269720410,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81155,
+		"city" : "Villa Grove",
+		"county" : "Saguache",
+		"population2018" : 263,
+		"CO2e_transportation_kgPerYear" : 4659913.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 529.8107438390,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 81248,
+		"city" : "Sargents",
+		"county" : "Saguache",
+		"population2018" : 102,
+		"CO2e_transportation_kgPerYear" : 1807267.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 466.3100884000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0021521270
+	},
+	{
+		"zip_id" : 81433,
+		"city" : "Silverton",
+		"county" : "San Juan",
+		"population2018" : 516,
+		"CO2e_transportation_kgPerYear" : 12894779.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4453.2213089100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 57890.1912371000
+	},
+	{
+		"zip_id" : 81325,
+		"city" : "Egnar",
+		"county" : "San Miguel",
+		"population2018" : 192,
+		"CO2e_transportation_kgPerYear" : 1114310.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1733.2273540000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 1430.9247802230
+	},
+	{
+		"zip_id" : 81423,
+		"city" : "Norwood",
+		"county" : "San Miguel",
+		"population2018" : 1751,
+		"CO2e_transportation_kgPerYear" : 10162272.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4194.7473054200,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 49265.4971240000
+	},
+	{
+		"zip_id" : 81426,
+		"city" : "Ophir",
+		"county" : "San Miguel",
+		"population2018" : 141,
+		"CO2e_transportation_kgPerYear" : 818321.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 878.6991106700,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 11259.6743965500
+	},
+	{
+		"zip_id" : 81430,
+		"city" : "Placerville",
+		"county" : "San Miguel",
+		"population2018" : 711,
+		"CO2e_transportation_kgPerYear" : 4126428.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2356.9971784600,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 28817.5961332000
+	},
+	{
+		"zip_id" : 81435,
+		"city" : "Telluride",
+		"county" : "San Miguel",
+		"population2018" : 5278,
+		"CO2e_transportation_kgPerYear" : 30631908.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 36356.1776380000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 468182.5661460000
+	},
+	{
+		"zip_id" : 80737,
+		"city" : "Julesburg",
+		"county" : "Sedgwick",
+		"population2018" : 1682,
+		"CO2e_transportation_kgPerYear" : 35033608.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 5868.5795318000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 54372.9000710000
+	},
+	{
+		"zip_id" : 80744,
+		"city" : "Ovid",
+		"county" : "Sedgwick",
+		"population2018" : 394,
+		"CO2e_transportation_kgPerYear" : 8206446.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 756.1993647000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 6274.9178583000
+	},
+	{
+		"zip_id" : 80749,
+		"city" : "Sedgwick",
+		"county" : "Sedgwick",
+		"population2018" : 274,
+		"CO2e_transportation_kgPerYear" : 5707021.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 454.5243622900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 3618.2333974000
+	},
+	{
+		"zip_id" : 80424,
+		"city" : "Breckenridge",
+		"county" : "Summit",
+		"population2018" : 10120,
+		"CO2e_transportation_kgPerYear" : 105574486.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 97689.6626482000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 436130.6950615000
+	},
+	{
+		"zip_id" : 80443,
+		"city" : "Frisco",
+		"county" : "Summit",
+		"population2018" : 4340,
+		"CO2e_transportation_kgPerYear" : 45276015.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 47518.7583273000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 211633.4146008000
+	},
+	{
+		"zip_id" : 80497,
+		"city" : "Silverthorne",
+		"county" : "Summit",
+		"population2018" : 497,
+		"CO2e_transportation_kgPerYear" : 5184834.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1058.9040765400,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 5067.6102799460
+	},
+	{
+		"zip_id" : 80498,
+		"city" : "Silverthorne",
+		"county" : "Summit",
+		"population2018" : 7911,
+		"CO2e_transportation_kgPerYear" : 82529620.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 46246.5069084000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80813,
+		"city" : "Cripple Creek",
+		"county" : "Teller",
+		"population2018" : 1589,
+		"CO2e_transportation_kgPerYear" : 4745459.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7656.0231498000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 57099.7364200000
+	},
+	{
+		"zip_id" : 80814,
+		"city" : "Divide",
+		"county" : "Teller",
+		"population2018" : 3426,
+		"CO2e_transportation_kgPerYear" : 10231556.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 24200.0705408000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 106691.6872860000
+	},
+	{
+		"zip_id" : 80816,
+		"city" : "Florissant",
+		"county" : "Teller",
+		"population2018" : 6245,
+		"CO2e_transportation_kgPerYear" : 18650341.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 28132.0027890000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 126231.9365600000
+	},
+	{
+		"zip_id" : 80860,
+		"city" : "Victor",
+		"county" : "Teller",
+		"population2018" : 610,
+		"CO2e_transportation_kgPerYear" : 1821731.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2049.9390029900,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 14998.6800690000
+	},
+	{
+		"zip_id" : 80863,
+		"city" : "Woodland Park",
+		"county" : "Teller",
+		"population2018" : 12670,
+		"CO2e_transportation_kgPerYear" : 37838242.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 126039.7665900000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 401821.1165690000
+	},
+	{
+		"zip_id" : 80720,
+		"city" : "Akron",
+		"county" : "Washington",
+		"population2018" : 2803,
+		"CO2e_transportation_kgPerYear" : 32496844.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 55894.6284860000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 72298.0944690000
+	},
+	{
+		"zip_id" : 80740,
+		"city" : "Lindon",
+		"county" : "Washington",
+		"population2018" : 112,
+		"CO2e_transportation_kgPerYear" : 1298483.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 592.4651268000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80743,
+		"city" : "Otis",
+		"county" : "Washington",
+		"population2018" : 1043,
+		"CO2e_transportation_kgPerYear" : 12092119.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 26840.1586130000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 14437.6060955000
+	},
+	{
+		"zip_id" : 80757,
+		"city" : "Woodrow",
+		"county" : "Washington",
+		"population2018" : 211,
+		"CO2e_transportation_kgPerYear" : 2446248.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1229.1674890000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80801,
+		"city" : "Anton",
+		"county" : "Washington",
+		"population2018" : 120,
+		"CO2e_transportation_kgPerYear" : 1391231.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 4632.8141504000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80812,
+		"city" : "Cope",
+		"county" : "Washington",
+		"population2018" : 269,
+		"CO2e_transportation_kgPerYear" : 3118677.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 6753.6810580000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80504,
+		"city" : "Longmont",
+		"county" : "Weld",
+		"population2018" : 54023,
+		"CO2e_transportation_kgPerYear" : 207624104.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 76128.6652911000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 501871.1981095000
+	},
+	{
+		"zip_id" : 80514,
+		"city" : "Dacono",
+		"county" : "Weld",
+		"population2018" : 5278,
+		"CO2e_transportation_kgPerYear" : 20284694.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 29041.7652708000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 38621.2341810900
+	},
+	{
+		"zip_id" : 80520,
+		"city" : "Firestone",
+		"county" : "Weld",
+		"population2018" : 1517,
+		"CO2e_transportation_kgPerYear" : 5830216.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 15416.0245307000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 19348.0541664300
+	},
+	{
+		"zip_id" : 80530,
+		"city" : "Frederick",
+		"county" : "Weld",
+		"population2018" : 4460,
+		"CO2e_transportation_kgPerYear" : 17140912.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 147122.0108060000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 39645.1725571000
+	},
+	{
+		"zip_id" : 80534,
+		"city" : "Johnstown",
+		"county" : "Weld",
+		"population2018" : 16527,
+		"CO2e_transportation_kgPerYear" : 63517457.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 30132.5495173000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 81276.6461338830
+	},
+	{
+		"zip_id" : 80542,
+		"city" : "Mead",
+		"county" : "Weld",
+		"population2018" : 4776,
+		"CO2e_transportation_kgPerYear" : 18355381.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 38418.9750107000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 49111.5244322000
+	},
+	{
+		"zip_id" : 80543,
+		"city" : "Milliken",
+		"county" : "Weld",
+		"population2018" : 7001,
+		"CO2e_transportation_kgPerYear" : 26906620.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 9801.9969464000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 49017.9061724200
+	},
+	{
+		"zip_id" : 80546,
+		"city" : "Severance",
+		"county" : "Weld",
+		"population2018" : 324,
+		"CO2e_transportation_kgPerYear" : 1245214.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7168.9612328000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 4006.5848784080
+	},
+	{
+		"zip_id" : 80603,
+		"city" : "Brighton",
+		"county" : "Weld",
+		"population2018" : 13504,
+		"CO2e_transportation_kgPerYear" : 51899300.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 90870.5834230000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 118142.3868398000
+	},
+	{
+		"zip_id" : 80615,
+		"city" : "Eaton",
+		"county" : "Weld",
+		"population2018" : 7982,
+		"CO2e_transportation_kgPerYear" : 30676852.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 12989.0331436000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 54088.9719784930
+	},
+	{
+		"zip_id" : 80620,
+		"city" : "Evans",
+		"county" : "Weld",
+		"population2018" : 19407,
+		"CO2e_transportation_kgPerYear" : 74586028.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 18998.8800688000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 61816.1849838240
+	},
+	{
+		"zip_id" : 80622,
+		"city" : "Galeton",
+		"county" : "Weld",
+		"population2018" : 170,
+		"CO2e_transportation_kgPerYear" : 653353.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 481.9962247300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80642,
+		"city" : "Hudson",
+		"county" : "Weld",
+		"population2018" : 3842,
+		"CO2e_transportation_kgPerYear" : 14765781.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 32855.2918624000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 41781.8781196300
+	},
+	{
+		"zip_id" : 80648,
+		"city" : "Nunn",
+		"county" : "Weld",
+		"population2018" : 1243,
+		"CO2e_transportation_kgPerYear" : 4777165.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 1897.0652066300,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 7726.9981646110
+	},
+	{
+		"zip_id" : 80650,
+		"city" : "Pierce",
+		"county" : "Weld",
+		"population2018" : 1558,
+		"CO2e_transportation_kgPerYear" : 5987790.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2075.9682043100,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 8013.1889571860
+	},
+	{
+		"zip_id" : 80729,
+		"city" : "Grover",
+		"county" : "Weld",
+		"population2018" : 669,
+		"CO2e_transportation_kgPerYear" : 2571137.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 224778.2142997000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80754,
+		"city" : "Stoneham",
+		"county" : "Weld",
+		"population2018" : 177,
+		"CO2e_transportation_kgPerYear" : 680256.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 2323.0503248000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80727,
+		"city" : "Eckley",
+		"county" : "Yuma",
+		"population2018" : 460,
+		"CO2e_transportation_kgPerYear" : 2706187.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 14427.4291690000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 8036.7090415000
+	},
+	{
+		"zip_id" : 80735,
+		"city" : "Idalia",
+		"county" : "Yuma",
+		"population2018" : 380,
+		"CO2e_transportation_kgPerYear" : 2235545.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 16669.5931840000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80755,
+		"city" : "Vernon",
+		"county" : "Yuma",
+		"population2018" : 117,
+		"CO2e_transportation_kgPerYear" : 688313.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 618.9144628000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 77.9871180100
+	},
+	{
+		"zip_id" : 80758,
+		"city" : "Wray",
+		"county" : "Yuma",
+		"population2018" : 3628,
+		"CO2e_transportation_kgPerYear" : 21343576.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 0.0000000000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 151866.7322750000
+	},
+	{
+		"zip_id" : 80822,
+		"city" : "Joes",
+		"county" : "Yuma",
+		"population2018" : 196,
+		"CO2e_transportation_kgPerYear" : 1153071.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 7700.1974480000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	},
+	{
+		"zip_id" : 80824,
+		"city" : "Kirk",
+		"county" : "Yuma",
+		"population2018" : 235,
+		"CO2e_transportation_kgPerYear" : 1382508.0000000000,
+		"CO2e_waste_MetricTonsPerYear" : null,
+		"CO2e_electricity_total_metricTonsPerYear" : 15902.5624400000,
+		"CO2e_naturalGas_total_metricTonsPerYear" : 0.0000000000
+	}
+]
