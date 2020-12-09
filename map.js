@@ -1,7 +1,7 @@
 var map;
 
 /* -------------------- Map Styling including alternate style ------------------- */
-var colorScale = {'#bc0000': 16000, '#cd3308': 8000, '#de5014': 4000, '#ef691f': 2000, '#ff812b': 0}
+var colorScale = {'#bc0000': 800, '#cd3308': 110, '#de5014': 80, '#ef691f': 20, '#ff812b': 0}
 
 // Primary map styling created with Google Maps
 // Styling Wizard at https://mapstyle.withgoogle.com/
@@ -445,15 +445,14 @@ function initMap() {
 
 
 
-  // Colorize zip code areas based on relative median income
-  // or population density (changeable via dedicated button)
+  // Colorize zip code areas based on average CO2e emissions 
   map.data.setStyle(function(feature) {
     var color;
     for (item in ghgData) {
       if (ghgData[item].zip_id.toString() != feature.getProperty('GEOID10').substring(2)) {
         continue;
       } else {
-        CO2ePerPop = (ghgData[item].CO2e_transportation_kgPerYear+
+        CO2ePerPop = ((ghgData[item].CO2e_transportation_kgPerYear / 1000)+
           ghgData[item].CO2e_electricity_total_metricTonsPerYear+
           ghgData[item].CO2e_naturalGas_total_metricTonsPerYear+
           ghgData[item].CO2e_waste_MetricTonsPerYear) / ghgData[item].population2018;
@@ -529,12 +528,12 @@ function initMap() {
         city = ghgData[item].city;
         county = ghgData[item].county;
         population = ghgData[item].population2018;
-        transportation = ghgData[item].CO2e_transportation_kgPerYear;
+        transportation = ghgData[item].CO2e_transportation_kgPerYear / 1000;
         electricity = ghgData[item].CO2e_electricity_total_metricTonsPerYear;
         naturalGas = ghgData[item].CO2e_naturalGas_total_metricTonsPerYear;
         waste = ghgData[item].CO2e_waste_MetricTonsPerYear;
 
-        CO2ePerPop = (ghgData[item].CO2e_transportation_kgPerYear+
+        CO2ePerPop = ((ghgData[item].CO2e_transportation_kgPerYear / 1000)+
           ghgData[item].CO2e_electricity_total_metricTonsPerYear+
           ghgData[item].CO2e_naturalGas_total_metricTonsPerYear+
           ghgData[item].CO2e_waste_MetricTonsPerYear) / ghgData[item].population2018;
@@ -615,8 +614,7 @@ function initMap() {
 /* --------------------------------- LEGEND --------------------------------- */
 
   // Create a color bar legend for the colored zip code areas.
-  // By default, shows colors used for describing relative median income.
-  // Button click toggles changes data to population density.
+  // By default, shows colors used for describing average CO2e emissions
   var legend = document.getElementById('legend');
   createLegend(legend, true)
 
