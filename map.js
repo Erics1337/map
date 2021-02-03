@@ -1,7 +1,9 @@
 var map;
-
+ 
 /* -------------------- Map Styling including alternate style ------------------- */
-var colorScale = {'#bc0000': 800, '#cd3308': 110, '#de5014': 80, '#ef691f': 20, '#ff812b': 0}
+var colorScale = {'#6C001D': 2000, '#DB0006': 200, '#FD990A': 100, '#FECB6C': 70, '#FFFF0D': 60, '#FFFFB0': 50, '#C8FF60': 40, '#8AE407': 30, '#5F9D05': 20, '#3C6104': 10}
+// var colorScale = {'#3C6104': 10, '#5F9D05': 20, '#8AE407': 30, '#C8FF60': 40, '#FFFFB0': 50, '#FFFF0D': 60, '#FECB6C': 70, '#FD990A': 100, '#DB0006': 200, '#6C001D': 2000}
+
 
 // Primary map styling created with Google Maps
 // Styling Wizard at https://mapstyle.withgoogle.com/
@@ -92,304 +94,6 @@ var style = [
     ]
   }
 ];
-// // Alternative map styling
-// var altStyle = [
-//   {
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#f5f5f5"
-//       }
-//     ]
-//   },
-//   {
-//     "elementType": "labels.icon",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#616161"
-//       }
-//     ]
-//   },
-//   {
-//     "elementType": "labels.text.stroke",
-//     "stylers": [
-//       {
-//         "color": "#f5f5f5"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "administrative",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "administrative.land_parcel",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "administrative.land_parcel",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#bdbdbd"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "administrative.neighborhood",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "poi",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "poi",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#eeeeee"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "poi",
-//     "elementType": "labels.text",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "poi",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#757575"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "poi.park",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#e5e5e5"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "poi.park",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#9e9e9e"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#ffffff"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road",
-//     "elementType": "labels",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road",
-//     "elementType": "labels.icon",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.arterial",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.arterial",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#757575"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.highway",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#dadada"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.highway",
-//     "elementType": "labels",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.highway",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#616161"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.local",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "road.local",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#9e9e9e"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "transit",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "transit.line",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#e5e5e5"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "transit.station",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#eeeeee"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "water",
-//     "elementType": "geometry",
-//     "stylers": [
-//       {
-//         "color": "#c9c9c9"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "water",
-//     "elementType": "labels.text",
-//     "stylers": [
-//       {
-//         "visibility": "off"
-//       }
-//     ]
-//   },
-//   {
-//     "featureType": "water",
-//     "elementType": "labels.text.fill",
-//     "stylers": [
-//       {
-//         "color": "#9e9e9e"
-//       }
-//     ]
-//   }
-// ];
-
-// // Create button for switching between visualizations
-// function switchVisualization(switchControlDiv, map){
-//   // Set CSS for the control border.
-//   var controlUI = document.createElement('div');
-//   controlUI.style.backgroundColor = '#fff';
-//   controlUI.style.border = '2px solid #fff';
-//   controlUI.style.borderRadius = '3px';
-//   controlUI.style.boxShadow = '0 2px 6px rgba(0,0,0,.3)';
-//   controlUI.style.cursor = 'pointer';
-//   controlUI.style.marginBottom = '22px';
-//   controlUI.style.textAlign = 'center';
-//   controlUI.title = 'Click to switch between visualization styles';
-//   switchControlDiv.appendChild(controlUI);
-
-//   // Set CSS for the control interior.
-//   var controlText = document.createElement('div');
-//   controlText.style.color = 'rgb(25,25,25)';
-//   controlText.style.fontFamily = 'Roboto,Arial,sans-serif';
-//   controlText.style.fontSize = '16px';
-//   controlText.style.lineHeight = '38px';
-//   controlText.style.paddingLeft = '5px';
-//   controlText.style.paddingRight = '5px';
-//   controlText.innerHTML = 'Change visualization';
-//   controlUI.appendChild(controlText);
-
-//   // Setup the click event listener. Button click switches
-//   // between two visualization schemes, which represent
-//   // different demographic data
-//   google.maps.event.addDomListener(controlUI, 'click', function() {
-//   	// Trigger events that update Polygon colors and legend
-//     google.maps.event.trigger(map.data, 'setcolor')
-//     google.maps.event.trigger(map.data, 'updatelegend')
-//   });
-// }
 
 /* -------------------  Define actual Google Maps object ------------------ */
 
@@ -435,7 +139,7 @@ function initMap() {
 
   //  Import data file 
   var ghgData;
-  fetch("./regionWkeys.json")
+  fetch("./ghgData.json")
     .then(response => {
       return response.json();
     })
@@ -447,35 +151,27 @@ function initMap() {
 
   // Colorize zip code areas based on average CO2e emissions 
   map.data.setStyle(function(feature) {
-    var color;
     for (item in ghgData) {
-      if (ghgData[item].zip_id.toString() != feature.getProperty('GEOID10').substring(2)) {
+      if (ghgData[item].zip.toString() != feature.getProperty('GEOID10').substring(2)) {
         continue;
       } else {
-        CO2ePerPop = ((ghgData[item].CO2e_transportation_kgPerYear / 1000)+
-          ghgData[item].CO2e_electricity_total_metricTonsPerYear+
-          ghgData[item].CO2e_naturalGas_total_metricTonsPerYear+
-          ghgData[item].CO2e_waste_MetricTonsPerYear) / ghgData[item].population2018;
+        CO2ePerPop = (ghgData[item].GHG_transportation_total+
+          ghgData[item].GHG_energy_electric_total+
+          ghgData[item].GHG_energy_naturalGas_total+
+          ghgData[item].GHG_cement_and_manufacturing +
+          ghgData[item].GHG_waste) / ghgData[item].population2018;
 
         colorKeys = Object.keys(colorScale);
         colorValues = Object.values(colorScale);
 
-        if (CO2ePerPop > colorValues[0]) {
-          color = colorKeys[0];
-        } 
-        else if (CO2ePerPop > colorValues[1]){
-          color = colorKeys[1];
+        var color;
+        var i = 0;
+        while (i < colorValues.length){
+          if (CO2ePerPop < colorValues[i]){
+            color = colorKeys[i];
+          }
+          i++;
         }
-        else if (CO2ePerPop > colorValues[2]){
-          color = colorKeys[2];
-        }
-        else if (CO2ePerPop > colorValues[3]){
-          color = colorKeys[3];
-        }
-        else if (CO2ePerPop > colorValues[4]){
-          color = colorKeys[4];
-        }
-        break;
       }
   }
     return {
@@ -520,24 +216,27 @@ function initMap() {
     var electricity = "Unknown";
     var naturalGas = "Unknown";
     var waste = "Unknown";
+    var cementManufacturing = "Unknown";
+
 
     for (item in ghgData) {
-      if (ghgData[item].zip_id.toString() != event.feature.getProperty('GEOID10').substring(2)) {
+      if (ghgData[item].zip.toString() != event.feature.getProperty('GEOID10').substring(2)) {
         continue;
       } else {
         city = ghgData[item].city;
         county = ghgData[item].county;
         population = ghgData[item].population2018;
-        transportation = ghgData[item].CO2e_transportation_kgPerYear / 1000;
-        electricity = ghgData[item].CO2e_electricity_total_metricTonsPerYear;
-        naturalGas = ghgData[item].CO2e_naturalGas_total_metricTonsPerYear;
-        waste = ghgData[item].CO2e_waste_MetricTonsPerYear;
+        transportation = ghgData[item].GHG_transportation_total;
+        electricity = ghgData[item].GHG_energy_electric_total;
+        naturalGas = ghgData[item].GHG_energy_naturalGas_total;
+        waste = ghgData[item].GHG_waste;
+        cementManufacturing = ghgData[item].GHG_cement_and_manufacturing;
 
-        CO2ePerPop = ((ghgData[item].CO2e_transportation_kgPerYear / 1000)+
-          ghgData[item].CO2e_electricity_total_metricTonsPerYear+
-          ghgData[item].CO2e_naturalGas_total_metricTonsPerYear+
-          ghgData[item].CO2e_waste_MetricTonsPerYear) / ghgData[item].population2018;
-
+        CO2ePerPop = (ghgData[item].GHG_transportation_total+
+          ghgData[item].GHG_energy_electric_total+
+          ghgData[item].GHG_energy_naturalGas_total+
+          ghgData[item].GHG_cement_and_manufacturing +
+          ghgData[item].GHG_waste) / ghgData[item].population2018;
         break;
       }
   }
@@ -555,10 +254,11 @@ function initMap() {
       '</br>Transportation: ' + `<b>${transportation}</b> Metric Tons CO2e/ Year` +
       '</br>Electricity: '+ `<b>${electricity}</b> Metric Tons CO2e/ Year` +
       '</br>Natural Gas: '+ `<b>${naturalGas}</b> Metric Tons CO2e/ Year` +
-      '</br>Waste: '+ `<b>${waste}</b> Metric Tons CO2e/ Year` +'</p>'+
+      '</br>Waste: '+ `<b>${waste}</b> Metric Tons CO2e/ Year` +
+      '</br>Cement and Manufacturing: '+ `<b>${cementManufacturing}</b> Metric Tons CO2e/ Year` +'</p>'+
       '</div>'+
 
-      `<div id="piechart" style="width: 100%; height: 30%; position: relative; right: 3vw; bottom: 2vh;"></div>` +
+      `<div id="piechart" style=""></div>` +
       '</div>';
 
 
@@ -599,7 +299,8 @@ function initMap() {
         ['Transportation', convertToNum(transportation)],
         ['Electricity', convertToNum(electricity)],
         ['Natural Gas', convertToNum(naturalGas)],
-        ['Waste', convertToNum(waste)]
+        ['Waste', convertToNum(waste)],
+        ['Cement And Manufacturing', convertToNum(cementManufacturing)]
       ]);
 
       var options = {
@@ -626,7 +327,7 @@ function initMap() {
       legend.appendChild(div);
       for (let key in colorScale) {
         var color = key;
-        var label = `> ${colorScale[key]}`;
+        var label = `<= ${colorScale[key]}`;
         var div = document.createElement('div');
         div.innerHTML = '<div class="cbox" style="background-color: '+ color + '; padding: 5px; box-sizing: border-box; opacity: 0.8;"><center>'+ label +'</center>';
         legend.appendChild(div);
@@ -635,6 +336,5 @@ function initMap() {
     } 
   }
   map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(legend);
-
 
 };
